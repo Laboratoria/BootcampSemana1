@@ -1,5 +1,5 @@
 * [Inicio](README.md)
 * [Carta de bienvenida](/carta.md)
-* [Cómo se aprende en Laboratoria](/carta.md)
 * [Valores de aula](/carta.md)
+* [Cómo se aprende en Laboratoria](/carta.md)
 * [Evaluaciones en Laboratoria](/carta.md)
