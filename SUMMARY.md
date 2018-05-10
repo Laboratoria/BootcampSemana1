@@ -3,3 +3,4 @@
 * [Valores de aula](/carta.md)
 * [Cómo se aprende en Laboratoria](/carta.md)
 * [Evaluaciones en Laboratoria](/carta.md)
+* [Incentivos y reconocimientos](/carta.md)
