@@ -99,61 +99,69 @@ Cada Squad tiene un Coach asignado. Como a los/as Laboratorians nos atrae el [co
 Los/as Jedi tienen la misión de darte guía y apoyo para que logres entregar tu proyecto y conseguir el objetivo principal: tu aprendizaje. Los/as Jedi no están aquí para explicarte un concepto o para hackear y/o diseñar contigo. De hecho, muchos de los/as Jedi no son personas técnicas; son gerentes. Por lo tanto, su contribución es otra. 
 
 Los/as Jedi se encargan de:
-Asegurar que se cumpla el flujo de trabajo del Agile Classroom:
-Facilitar todas las ceremonias durante el Sprint
-En las ceremonias de planificación, asegurar que se incorporan los aprendizajes pasados y que se apunta correctamente a finalizar el Sprint con un prototipo operativo o un producto potencialmente entregable
-Garantizar que el equipo mantiene actualizado y visible el Tablero Kanban, con las tareas priorizadas y claramente expresadas
+- Asegurar que se cumpla el flujo de trabajo del Agile Classroom:
+	* Facilitar todas las ceremonias durante el Sprint
+	* En las ceremonias de planificación, asegurar que se incorporan los aprendizajes pasados y que se apunta correctamente a finalizar el Sprint con un prototipo operativo o un producto potencialmente entregable
+	* Garantizar que el equipo mantiene actualizado y visible el Tablero Kanban, con las tareas priorizadas y claramente expresadas
 
-Mantener la motivación alta en el Squad y promover la colaboración entre el equipo
+- Mantener la motivación alta en el Squad y promover la colaboración entre el equipo
 
-Remover barreras y, de ser necesario, coordinar sesiones con el staff de coaches para que se aclaren dudas sobre algún concepto que tú o tu Squad no ha logrado entender
+- Remover barreras y, de ser necesario, coordinar sesiones con el staff de coaches para que se aclaren dudas sobre algún concepto que tú o tu Squad no ha logrado entender
 
-Determinar si al final del tiempo establecido para el proyecto, tu solución cumple los criterios mínimos de aceptación (establecidos en la descripción de cada proyecto) como para considerarse “completado”. En función de esto, determinar si puedes avanzar al siguiente proyecto o si debes enfocarte en terminar el proyecto actual.
+- Determinar si al final del tiempo establecido para el proyecto, tu solución cumple los criterios mínimos de aceptación (establecidos en la descripción de cada proyecto) como para considerarse “completado”. En función de esto, *determinar si puedes avanzar al siguiente proyecto o si debes enfocarte en terminar el proyecto actual.*
 
-Darte guía y consejos sobre tu progreso general y sobre tu avance en los niveles de las habilidades a desarrollar. Esto incluye consejos de qué cosas enfocarte en el próximo proyecto, si es recomendable hacer arreglos al proyecto actual y entregarlo de nuevo, etc.
+- Darte guía y consejos sobre tu progreso general y sobre tu avance en los niveles de las habilidades a desarrollar. Esto incluye consejos de qué cosas enfocarte en el próximo proyecto, si es recomendable hacer arreglos al proyecto actual y entregarlo de nuevo, etc.
 
 Moderar las sesiones de Peer Review (revisión entre pares) al final del proyecto. En esta actividad una compañera te evaluará indicando el nivel que lograste alcanzar para cada habilidad técnica y blanda. Lo mismo haces tú para una compañera y para ti como auto-evaluación. 
-¿Cómo es eso de no poder avanzar?
-Los proyectos en Laboratoria están diseñados de forma que van creciendo en complejidad y, de alguna manera, se van construyendo uno sobre la base del otro. Entonces, si alguien avanza al siguiente tema sin necesariamente haber dominado el anterior, se genera el problema del “queso suizo en el aprendizaje”: a pesar de que por fuera parece que todo bien, por dentro está lleno de huecos. 
+
+## ¿Cómo es eso de no poder avanzar?
+Los proyectos en Laboratoria están diseñados de forma que van creciendo en complejidad y, de alguna manera, se van construyendo uno sobre la base del otro. Entonces, si alguien avanza al siguiente tema sin necesariamente haber dominado el anterior, se genera el problema del “queso suizo en el aprendizaje”: a pesar de que por fuera parece que todo bien, por dentro está lleno de agujeros. 
 
 En Laboratoria nos enfocamos menos en que termines el proyecto en el tiempo establecido y más en que lo termines en el tiempo que necesitas para garantizar que avanzas sin “huecos” en tu conocimiento. 
 
 Lamentablemente, no podemos esperar indefinidamente hasta que logres completar un proyecto. Consideramos que algo anda mal si has invertido más del doble del tiempo originalmente estipulado. Si esto sucede, tu Training Manager y/o tu coach de desarrollo personal, se comunicará contigo para definir cuáles son las alternativas de acción, ya que esto afecta directamente la posibilidad de obtener la Recomendación de Empleabilidad.
-Si los Jedi no son personas técnicas, entonces ¿quién evalúa la parte técnica?
+
+## Si los Jedi no son personas técnicas, entonces ¿quién evalúa la parte técnica?
 Hemos preparado un documento aparte para describir el proceso de Evaluaciones en Laboratoria. Léelo con detenimiento, pero en general, cada vez que entregues tus proyectos:
-Deberás hacer la dinámica de Peer Review moderada por tu Jedi Master 
-Tu Jedi determina si tu entrega cumple con los criterios mínimos de aceptación. Esto determina si puedes avanzar al siguiente proyecto o debes continuar trabajando en el actual
-Tus coaches evaluarán tu solución indicando el nivel que lograste alcanzar para cada habilidad técnica de acuerdo a las expectativas descritas en las bases del proyecto
-Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tu Jedi,  por tus compañeras y por tus coaches- te evaluará indicando el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto
-Ok... ¿Los coaches cuándo intervienen?
+
+- Deberás hacer la dinámica de Peer Review moderada por tu Jedi Master 
+- Tu Jedi determina si tu entrega cumple con los criterios mínimos de aceptación. Esto determina si puedes avanzar al siguiente proyecto o debes continuar trabajando en el actual
+- Tus coaches evaluarán tu solución indicando el nivel que lograste alcanzar para cada habilidad técnica de acuerdo a las expectativas descritas en las bases del proyecto
+- Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tu Jedi,  por tus compañeras y por tus coaches- te evaluará indicando el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto
+
+## Ok... ¿Los coaches cuándo intervienen?
 Siempre habrán coaches en el aula mientras estás hackeando o diseñando.
 
 También existen tres espacios importantes para interactuar con los/as coaches:
-Talleres de Preguntas y Respuestas - Modalidad Open Space: dos veces por semana los/as coaches facilitarán talleres de preguntas y respuestas donde tú y tus compañeras de aula (todos los Squads juntos) proponen temas y los/as coaches realizan un taller en función de lo pedido. En algunos casos se puede dividir el salón en dos grupos, así dos coaches pueden facilitar dos sesiones en paralelo y cubrir más necesidades. Recuerda que tú estás en control: venir a una sesión de preguntas y respuestas sin hacer preguntas, ¡es como ir al cine y cerrar los ojos!
-¿Por qué te sentarías 2 horas de tu vida (que no volverán) a escuchar, pasivamente, una conversación sobre algo que ya sabes?
-Así como no tiene sentido promediar notas, tampoco tiene sentido promediar el contenido y nivel de una sesión para hacerla al nivel de todas.
-Tú participas en la creación de la agenda de la sesión o sesiones.
 
-Horas de consulta (Office Hours): los/as coaches ofrecen espacios de 30-60min para consultas personalizadas para 1-2 estudiantes todos los días. Podrás reservar tu espacio con anticipación si así lo deseas, a través de esta plataforma. También podrás llegar de imprevisto, pero si hay otra estudiante antes que tú, deberás esperar
+- **Talleres de Preguntas y Respuestas - Modalidad Open Space**: dos veces por semana los/as coaches facilitarán talleres de preguntas y respuestas donde tú y tus compañeras de aula (todos los Squads juntos) proponen temas y los/as coaches realizan un taller en función de lo pedido. En algunos casos se puede dividir el salón en dos grupos, así dos coaches pueden facilitar dos sesiones en paralelo y cubrir más necesidades. Recuerda que tú estás en control: venir a una sesión de preguntas y respuestas sin hacer preguntas, ¡es como ir al cine y cerrar los ojos!
 
-Revisión de soluciones: al final del tiempo estipulado para entregar el proyecto, los/as coaches facilitarán un espacio para revisar algunas de las soluciones entregadas y dar feedback. La modalidad aquí es que se escogen aleatoriamente algunas estudiantes (escuchamos voluntarias) para que presenten su código/diseño al grupo y los/as coaches dan feedback en vivo. Los/as coaches también muestran su propia solución. La idea es que no avances a otro proyecto sin discutir las múltiples maneras en las que se pudo haber solucionado el proyecto. Lo mismo que siempre: mientras más participes mejor para ti y para las demás.
-¿Existen otras dinámicas adicionales como parte de la experiencia en Laboratoria?
+	*¿Por qué te sentarías 2 horas de tu vida (que no volverán) a escuchar, pasivamente, una conversación sobre algo que ya sabes?
+
+	*Así como no tiene sentido promediar notas, tampoco tiene sentido promediar el contenido y nivel de una sesión para hacerla al nivel de todas.
+
+	*Tú participas en la creación de la agenda de la sesión o sesiones.
+
+- **Horas de ayudantía (Office Hours)**: los/as coaches ofrecen espacios de 30-60min para consultas personalizadas para 1-2 estudiantes todos los días. Podrás reservar tu espacio con anticipación si así lo deseas, a través de esta plataforma. También podrás llegar de imprevisto, pero si hay otra estudiante antes que tú, deberás esperar
+
+- **Revisión de soluciones:** al final del tiempo estipulado para entregar el proyecto, los/as coaches facilitarán un espacio para revisar algunas de las soluciones entregadas y dar feedback. La modalidad aquí es que se escogen aleatoriamente algunas estudiantes (escuchamos voluntarias) para que presenten su código/diseño al grupo y los/as coaches dan feedback en vivo. Los/as coaches también muestran su propia solución. La idea es que no avances a otro proyecto sin discutir las múltiples maneras en las que se pudo haber solucionado el proyecto. Lo mismo que siempre: mientras más participes mejor para ti y para las demás.
+
+## ¿Existen otras dinámicas adicionales como parte de la experiencia en Laboratoria?
 Sí, como parte de la agenda cotidiana en Laboratoria, tendremos:
 
-Talleres de Desarrollo Personal una vez por semana. Estos talleres tienen el propósito de generar una mejor adaptación a la vida laboral e inicio de una carrera en el sector digital. Son un espacio donde trabajamos temáticas como género, resiliencia y growth mindset, que son relevantes para tu crecimiento personal y profesional
+1. Talleres de Desarrollo Personal una vez por semana. Estos talleres tienen el propósito de generar una mejor adaptación a la vida laboral e inicio de una carrera en el sector digital. Son un espacio donde trabajamos temáticas como género, resiliencia y growth mindset, que son relevantes para tu crecimiento personal y profesional
 
-Un espacio para reconocimientos para premiar y reconocer los buenos comportamientos. Hemos preparado un documento aparte para explicar nuestro programa de incentivos y reconocimientos
+2. Un espacio para reconocimientos para premiar y reconocer los buenos comportamientos. Hemos preparado un documento aparte para explicar nuestro programa de incentivos y reconocimientos
 
-Además, tenemos constantemente talleres y charlas con invitados externos, profesionales de las mejores empresas de la industria tech que vienen al aula para compartir sus experiencias. En algunos casos, son las propias estudiantes quienes visitan las empresas para conocer de cerca cómo trabajan sus equipos de desarrollo.
+3. Además, tenemos constantemente talleres y charlas con invitados externos, profesionales de las mejores empresas de la industria tech que vienen al aula para compartir sus experiencias. En algunos casos, son las propias estudiantes quienes visitan las empresas para conocer de cerca cómo trabajan sus equipos de desarrollo.
 
-¿Algún consejo adicional antes de empezar?
+## ¿Algún consejo adicional antes de empezar?
 Sí, de experiencias anteriores hemos rescatado algunos aprendizajes que nos gustaría compartir contigo:
 
-Lee con detenimiento la descripción del proyecto y asegúrate de que entiendes lo que se pide y tienes toda la información. Si no entiendes algo, pregunta. No arranques sin entender los requerimientos a profundidad.
+1. Lee con detenimiento la descripción del proyecto y asegúrate de que entiendes lo que se pide y tienes toda la información. Si no entiendes algo, pregunta. No arranques sin entender los requerimientos a profundidad.
 
-Divide el problema en pedazos. No trates de abarcar absolutamente todo desde un comienzo. En el espíritu de la agilidad, pregúntate: ¿qué es lo mínimo que debo completar en una semana para entregarle al usuario algo que le sirva? 
+2. Divide el problema en pedazos. No trates de abarcar absolutamente todo desde un comienzo. En el espíritu de la agilidad, pregúntate: ¿qué es lo mínimo que debo completar en una semana para entregarle al usuario algo que le sirva? 
 
-No te saltes ninguna ceremonia. Todas cumplen un propósito importante.
+3. No te saltes ninguna ceremonia. Todas cumplen un propósito importante.
 
-¿Sientes que no sabes lo suficiente para comenzar? Esa es la idea ;) no estás acá para aplicar lo que ya sabes, estás para aprender lo que aún no sabes. Esto es algo que te va a pasar siempre en tu carrera, así es que vamos practicando :p
-
+4. ¿Sientes que no sabes lo suficiente para comenzar? Esa es la idea ;) no estás acá para aplicar lo que ya sabes, estás para aprender lo que aún no sabes. Esto es algo que te va a pasar siempre en tu carrera, así es que vamos practicando :p
