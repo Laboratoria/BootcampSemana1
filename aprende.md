@@ -2,12 +2,12 @@
 
 Muy fácil: en Laboratoria se aprende haciendo y con tu propia iniciativa. 
 
-Tal como describimos en nuestra carta de bienvenida, un aspecto fundamental que define nuestra cultura es la búsqueda por replicar un ambiente laboral. El objetivo de nuestro Bootcamp es que empieces una carrera en tecnología. Por eso, es importante que durante tu estadía acá te sientas tal como si estuvieras trabajando. 
+Como te contamos en nuestra carta de bienvenida, un aspecto fundamental que define nuestra cultura es la búsqueda por replicar un ambiente laboral. El objetivo de nuestro Bootcamp es que empieces una carrera en tecnología. Por eso, es importante que durante tu estadía acá te sientas tal como si estuvieras trabajando. 
 
 El trabajo de una desarrolladora o una diseñadora de experiencias de usuario es básicamente resolver problemas y crear productos con soluciones innovadoras. Por lo tanto, tu ruta de aprendizaje en Laboratoria está formada por un conjunto de **proyectos** que debes completar en un período de tiempo establecido.
 
 ## Y… ¿Cómo son estos proyectos?
-Simulan situaciones a las que te podrías enfrentar en el mundo real (no académico). Por lo tanto son holísticos, se plantean dentro de un contexto y tienen múltiples maneras de solucionarlos. Digamos que, en lugar de afrontar una situación que sea tipo “crea una función en JavaScript que haga esto y aquello …”, los proyectos son algo como “crea una aplicación web que resuelva el problema de …”. 
+Simulan situaciones a las que te podrías enfrentar en el mundo real (no académico). Por lo tanto son holísticos, se plantean dentro de un contexto y tienen múltiples maneras de solucionarlos. Digamos que, en lugar de afrontar una situación que sea tipo *“crea una función en JavaScript que haga esto y aquello …”*, los **proyectos** son algo como *“crea una aplicación web que resuelva el problema de …”.* 
 
 Al mismo tiempo, al ser experiencias de aprendizaje, los proyectos han sido diseñados con ciertas condiciones y consideraciones que lo hacen ideal para aprender. Por eso, cada proyecto:
 
@@ -19,7 +19,6 @@ Al mismo tiempo, al ser experiencias de aprendizaje, los proyectos han sido dise
 Para que tengas una idea, el primer proyecto que deberás completar en Laboratoria es [Cifrado César](https://github.com/Laboratoria/curricula-js/tree/v2.x/projects/01-cipher), para el cual tendrás un lapso de dos semanas. Dale una leída para que te familiarices el tipo de proyecto que verás durante todo el bootcamp.
 
 ## Pero yo no he hecho esto antes...
-
 Es cierto, los proyectos pueden parecer grandes y complejos, pero no te intimides. Recuerda que el control de tu aprendizaje está en tus manos. Afrontar proyectos con mucha incertidumbre es, justamente, lo que necesitas para aumentar tus capacidades.
 
 En palabras de Thomas Jefferson: “Si quieres algo que nunca has tenido, debes estar dispuest[a] a hacer algo que nunca has hecho.”  
@@ -29,6 +28,8 @@ La mejor manera de empezar es… ¡empezando!
 
 Acuérdate de las diferencias entre el trabajo en la era industrial y el trabajo en la era del conocimiento (fábrica de Ford vs. innovación en Nordstrom del día 2 de la semana 1). Cuando TODAVÍA no sabes cómo hacer algo, tu proceso debería verse así:
 
+**[Poner IMG]**
+
 Los objetivos de aprendizaje de cada proyecto están linkeados a los tópicos relevantes de nuestro catálogo de contenido interno dentro del LMS. Este catálogo contiene lecturas, videos, ejercicios prácticos, etc. que han preparado coaches de Laboratoria. Los proyectos también vienen con una lista de contenido externo (de Internet) que puedes utilizar para aprender. Todo ese material está a tu disposición. Puedes ir a través del material (interno y externo) y luego empezar a hackear/diseñar. O puedes ir sobre la marcha. Tú decides. 
 
 Para los primeros proyectos tendrás mucho contenido interno y muchas pistas/tips. Conforme pase el tiempo, esto irá disminuyendo. Es como cuando aprendes a rodar bicicleta con esas rueditas adicionales de apoyo al principio. Podemos empezar con ese apoyo adicional, pero debe llegar el momento que puedas rodar bicicleta sin ayuda. 
@@ -36,63 +37,68 @@ Para los primeros proyectos tendrás mucho contenido interno y muchas pistas/tip
 También recuerda que siempre cuentas con Google y con tus compañeras. Cómo afrontas el reto depende de ti. Utiliza todos los recursos que encuentres. Todo vale, siempre y cuando - tal como lo indican los **valores de aula de Laboratoria** - trabajes de manera honesta, sin copiar y que siempre puedas explicar el racional detrás de tu trabajo.
 
 ## ¿Cómo es el flujo de trabajo en Laboratoria?
-En el marco de simular el ambiente laboral en Laboratoria, hemos adoptado los valores y principios de la cultura Ágil y hemos creado el concepto del Agile Classroom para describir el flujo y la mecánica de trabajo que seguimos para completar cada proyecto. 
+En el marco de simular el ambiente laboral en Laboratoria, hemos adoptado los [valores](http://agilemanifesto.org/iso/es/manifesto.html) y [principios](http://agilemanifesto.org/iso/es/principles.html) de la cultura Ágil y hemos creado el concepto del Agile Classroom para describir el flujo y la mecánica de trabajo que seguimos para completar cada proyecto. 
 
-
+**[IMG de tanlero]**
 
 El Agile Classroom tiene cuatro (4) componentes esenciales:
-1) Squads y el trabajo en equipo
+
+### 1) Squads y el trabajo en equipo
 Los proyectos pueden requerir una entrega individual o grupal. El primer proyecto Cifrado César, por ejemplo, debe ser entregado de manera individual. Sin embargo, la idea es que siempre trabajes de manera colaborativa con tus compañeras. 
 
 Para afrontar cada proyecto serás parte de una unidad de equipo que llamamos Squads (escuadrones). La idea con esto es que tengas un grupo de compañeras cercanas para que se apoyen. Buscamos que hagan la planificación juntas, que resuelvan dudas y los problemas entre todas, que se revisen el trabajo y se den feedback, que se motiven y que establezcan una relación de confianza y solidaridad. 
 
 No importa si cada una debe entregar su trabajo de forma individual, tú y tus compañeras de Squad están en lo mismo, así que siempre podrán encontrar maneras de colaborar. Si hay algo que tú no sabes, otra compañera quizás te puede ayudar. Recuerda que el aprendizaje en Laboratoria es un proceso colaborativo.
-2) El Sprint y sus ceremonias
-Debes ir desarrollando el proyecto en incrementos llamados Sprints. Un Sprint es un período de corta duración que debe finalizar con un prototipo operativo o un producto potencialmente entregable. Es decir, en cada período debe haber un incremento significativo en tu proyecto que puedas sacar a la luz pública. Si terminas un Sprint sin algo que mostrar al usuario es señal de que algo anda mal.  
+
+### 2) El Sprint y sus ceremonias
+Debes ir desarrollando el proyecto en incrementos llamados [Sprints](http://www.javiergarzas.com/2012/05/scrum-dummies-1.html). Un Sprint es un período de corta duración que debe finalizar con un prototipo operativo o un producto potencialmente entregable. Es decir, en cada período debe haber un incremento significativo en tu proyecto que puedas sacar a la luz pública. Si terminas un Sprint sin algo que mostrar al usuario es señal de que algo anda mal.  
 
 Trabajar en periodos cortos de desarrollo permite un ciclo de retroalimentación más corto; por lo tanto, es más fácil adaptarse,  responder al cambio e iterar. El final de cada Sprint es una oportunidad para reflexionar sobre lo sucedido, identificar mejoras y ajustar el rumbo.  
 
-En el marco de los proyectos de Laboratoria, correremos Sprints de una o dos semanas. Y como principio, siempre deberás haber completado tu proyecto en al menos dos Sprints. En el caso de Cifrado César, por ejemplo, dado que el proyecto debe completarse en dos semanas, debes correr dos Sprints, de una semana cada uno.
-
+En el marco de los proyectos de Laboratoria, correremos Sprints **de una o dos semanas.** Y como principio, siempre deberás haber completado tu proyecto en al menos dos Sprints. En el caso de Cifrado César, por ejemplo, dado que el proyecto debe completarse en dos semanas, debes correr dos Sprints, de una semana cada uno.
 
 Durante cada Sprint se deben llevar a cabo las siguientes ceremonias:
-Sprint Planning
+
+### Sprint Planning
 Independientemente de que muchas veces tengas que entregar tu proyecto de forma individual, esperamos que como equipo (a nivel de Squad) hagan la planificación. En esta ceremonia el Squad discute cuáles son las tareas que deben completarse durante el Sprint y se compromete a hacerlas. Aquí es el momento de debatir diferentes estrategias. Recuerda incorporar lecciones de experiencias pasadas. ¿Qué aprendiste en la pre-admisión o en Sprints pasados que te ayuden a planificar mejor?
  
-Daily meetings
+### Daily meetings
 Cada día, se destinan 15 minutos (máximo) para sincronizar el trabajo diario. Cada integrante del equipo responde a 3 preguntas simples:
-Qué hice ayer
-Qué haré hoy
-Qué impedimentos o dificultades tengo
+- Qué hice ayer
+- Qué haré hoy
+- Qué impedimentos o dificultades tengo
 
 El objetivo no es reportarle tu progreso al Jedi Master (ver punto 4 abajo). El daily meeting se trata de que, como equipo, puedan identificar qué problemas se han encontrado. Aquí es, por ejemplo, cuando podrás identificar si una compañera está teniendo dificultades para que - en línea con los valores de aula de Laboratoria -  luego puedas apoyarla ;)
-Demo
+
+### Demo
 Al final del Sprint, el equipo hace un demo con todo lo que cumpla la “Definición de Terminado”: se considera que una funcionalidad está terminada cuando: i) está lista para salir a producción y mostrarse al usuario final y ii) cuando incorpora feedback de una compañera. 
 
 Lo que está a medias no es parte del demo. De igual manera, si desarrollaste algo y no has recibido feedback de una compañera, no debe ser parte del demo. Recuerda que aquí el aprendizaje es colaborativo: el conocimiento se comparte proactivamente y abiertamente.
-Retrospectiva
+
+### Retrospectiva
 El final del Sprint es la oportunidad perfecta para discutir qué cosas se pueden mejorar del flujo y manera de trabajar para el siguiente Sprint ¿Te acuerdas de los huevos de pascua que pintaste el día 2 de la semana 1? 
 
 Hay muchas maneras de hacer las retrospectivas, proponemos dos para comenzar:
-Qué hicimos bien, mal, nuevo...
-Estrella
-3) El Tablero Kanban
-Lee más sobre Kanban en este post de nuestro amigo Javier Garzas para entender los beneficios de este tablero. 
+- [Qué hicimos bien, mal, qué podemos mejorar](http://www.elproximopaso.net/2014/10/que-es-una-retrospectiva.html)
+- [Estrella](https://proyectosagiles.org/2009/06/14/retrospectiva-estrella-mar-starfish-retrospective-scrum/)
+
+## 3) El Tablero Kanban
+Lee más sobre Kanban [en este post de nuestro amigo Javier Garzas](http://www.javiergarzas.com/2011/11/kanban.html) para entender los beneficios de este tablero. 
 
 El tablero es un irradiador de información: pretende hacer visible el estado real del trabajo en todo momento para todo el mundo. 
 
 Puedes definir las columnas que mejor se acomoden (de hecho, lo ideal es que vayas iterando y ajustando de acuerdo a tu experiencia), pero para iniciar te recomendamos: 
-Sprint To do 
-Doing
-Peer Feedback 
-Done
-4) Agile Coaches o Jedi Masters
-Cada Squad tiene un Coach asignado. Como a los/as Laboratorians nos atrae el concepto metafísico de un campo energético creado por todos los seres vivos, que nos rodea y nos penetra y que une a la galaxia, decidimos que los Agile Coaches aquí son Jedi Masters. 
+- Sprint To do 
+- Doing
+- Peer Feedback 
+- Done
+
+## 4) Agile Coaches o Jedi Masters
+Cada Squad tiene un Coach asignado. Como a los/as Laboratorians nos atrae el [concepto metafísico de un campo energético creado por todos los seres vivos, que nos rodea y nos penetra y que une a la galaxia](http://starwars.wikia.com/wiki/The_Force), decidimos que los Agile Coaches aquí son Jedi Masters. 
 
 Los/as Jedi tienen la misión de darte guía y apoyo para que logres entregar tu proyecto y conseguir el objetivo principal: tu aprendizaje. Los/as Jedi no están aquí para explicarte un concepto o para hackear y/o diseñar contigo. De hecho, muchos de los/as Jedi no son personas técnicas; son gerentes. Por lo tanto, su contribución es otra. 
 
 Los/as Jedi se encargan de:
-
 Asegurar que se cumpla el flujo de trabajo del Agile Classroom:
 Facilitar todas las ceremonias durante el Sprint
 En las ceremonias de planificación, asegurar que se incorporan los aprendizajes pasados y que se apunta correctamente a finalizar el Sprint con un prototipo operativo o un producto potencialmente entregable
