@@ -1,4 +1,3 @@
-* [Inicio](README.md)
 * [Carta de bienvenida](/carta.md)
 * [Valores de aula](/valores.md)
 * [Cómo se aprende en Laboratoria](/aprende.md)
