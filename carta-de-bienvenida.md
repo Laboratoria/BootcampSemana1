@@ -1,7 +1,7 @@
 # Carta de bienvenida
 
-Hola,**  
-**Bienvenida y felicitaciones por ser parte de Laboratoria.
+Hola,
+Bienvenida y felicitaciones por ser parte de Laboratoria.
 
 Antes de empezar este camino, queremos contarte sobre la filosofía de aprendizaje en Laboratoria y las bases de nuestra cultura de aula. Laboratoria es muy diferente a la educación tradicional; pero diferente de una buena manera ;\)
 
@@ -63,13 +63,13 @@ En Laboratoria tomamos las bases de la [andragogía](https://es.wikipedia.org/wi
 Algo que también tomamos del entorno laboral que te espera es la [cultura ágil](http://agilemanifesto.org/iso/es/manifesto.html). Tal como lo harás cuando empieces a trabajar, en Laboratoria enfrentarás tu aprendizaje de forma ágil. Esto quiere decir que trabajarás en períodos cortos de tiempo \(llamados Sprints\) para que al finalizar cada uno puedas reflexionar sobre lo sucedido, identificar mejoras y ajustar el rumbo. También trabajarás en equipos, que llamamos Squads \(escuadrones\). Un Squad de aprendizaje es un grupo de cinco o más estudiantes que trabajan como equipo para alcanzar los objetivos comunes.
 
 **Resumiendo, nuestra filosofía se centra en cuatro puntos:**  
-i\) **Un espacio seguro y de confianza**, donde las estudiantes se apoyan unas  a otras para superarse,
+1. **Un espacio seguro y de confianza**, donde las estudiantes se apoyan unas  a otras para superarse,
 
-ii\) **Mentalidad de crecimiento**, donde tu esfuerzo es el ingrediente secreto que te hará salir de tu zona de confort para descubrir y desarrollar nuevas habilidades,
+2. **Mentalidad de crecimiento**, donde tu esfuerzo es el ingrediente secreto que te hará salir de tu zona de confort para descubrir y desarrollar nuevas habilidades,
 
-iii\) **El autoaprendizaje y la jardinería**, donde tú tomarás el control bajo un entorno propicio que nosotros creamos para ti y
+3. **El autoaprendizaje y la jardinería**, donde tú tomarás el control bajo un entorno propicio que nosotros creamos para ti y
 
-iv\) **Simulación de un ambiente laboral**, donde trabajas en equipo, de manera ágil y de forma incremental.
+4. **Simulación de un ambiente laboral**, donde trabajas en equipo, de manera ágil y de forma incremental.
 
 ### ¿Qué esperamos de ti?
 
