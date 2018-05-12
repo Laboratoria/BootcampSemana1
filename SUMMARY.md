@@ -1,4 +1,5 @@
-# Table of contents 
+# Table of contents
+* [Inicio](README.md)
 * [Carta de bienvenida](1bienvenida.md) 
 * [Valores de aula](2valores.md) 
 * [Cómo se aprende en Laboratoria](3aprende.md) 
@@ -13,6 +14,7 @@
 ### Proyecto 1
 * [Proyecto 1]()
 	* [Cifrado César](/projects/cifrado.md) 
+### Topicos	
 	* [Tópicos](#) 
 		* [Browser dev tools](/topics/Browser.md) 
 		* [UNIX Shell](/topics/UNIXShell.md) 
@@ -25,3 +27,4 @@
 		* [JavaScript: Objects](/topics/JSObjects.md) 
 		* [SCM](/topics/SCM.md) 
 		* [Testing](/topics/Testing.md) 
+---
