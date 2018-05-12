@@ -1,6 +1,6 @@
 # Table of contents
 * [Inicio](README.md)
-Semana 1
+[Semana 1]()
 	* [Carta de bienvenida](1bienvenida.md)
 	* [Valores de aula](2valores.md)
 	* [Cómo se aprende en Laboratoria](3aprende.md)
@@ -13,6 +13,6 @@ Semana 1
   		* [Día 4](dia4.md)
   		* [Día 5](dia5.md)
 
- Proyecto 1
+ [Proyecto 1]()
  * [Cifrado César](#)
 
