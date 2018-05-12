@@ -3,7 +3,6 @@
 * [Começar](README.md)
 * [Carta Laboratoria](1bienvenida.md) 
 * [Valores de Sala](2valores.md) 
-* [Reconhecimentos.](5reconocimientos.md)
 * [Apresentações da semana]()
 	* [Dia 1](dia1.md) 
 	* [Dia 2](dia2.md) 
