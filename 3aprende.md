@@ -31,7 +31,7 @@ La mejor manera de empezar es… ¡empezando!
 
 Acuérdate de las diferencias entre el trabajo en la era industrial y el trabajo en la era del conocimiento \(fábrica de Ford vs. innovación en Nordstrom del día 2 de la semana 1\). Cuando TODAVÍA no sabes cómo hacer algo, tu proceso debería verse así:
 
-![Proceso](../.gitbook/assets/sem1_caos.PNG)
+![Proceso](/img/sem1_caos.png)
 
 Los objetivos de aprendizaje de cada proyecto están linkeados a los tópicos relevantes de nuestro catálogo de contenido interno dentro del LMS. Este catálogo contiene lecturas, videos, ejercicios prácticos, etc. que han preparado coaches de Laboratoria. Los proyectos también vienen con una lista de contenido externo \(de Internet\) que puedes utilizar para aprender. Todo ese material está a tu disposición. Puedes ir a través del material \(interno y externo\) y luego empezar a hackear/diseñar. O puedes ir sobre la marcha. Tú decides.
 
@@ -43,7 +43,7 @@ También recuerda que siempre cuentas con Google y con tus compañeras. Cómo af
 
 En el marco de simular el ambiente laboral en Laboratoria, hemos adoptado los [valores](http://agilemanifesto.org/iso/es/manifesto.html) y [principios](http://agilemanifesto.org/iso/es/principles.html) de la cultura Ágil y hemos creado el concepto del Agile Classroom para describir el flujo y la mecánica de trabajo que seguimos para completar cada proyecto.
 
-![&#xC1;gill](../.gitbook/assets/sem1_tablero.PNG)
+![Ágill](/img/sem1_tablero.png)
 
 El Agile Classroom tiene cuatro \(4\) componentes esenciales:
 
@@ -119,10 +119,15 @@ Los/as Jedi tienen la misión de darte guía y apoyo para que logres entregar tu
   * Facilitar todas las ceremonias durante el Sprint
   * En las ceremonias de planificación, asegurar que se incorporan los aprendizajes pasados y que se apunta correctamente a finalizar el Sprint con un prototipo operativo o un producto potencialmente entregable
   * Garantizar que el equipo mantiene actualizado y visible el Tablero Kanban, con las tareas priorizadas y claramente expresadas
+
 * Mantener la motivación alta en el Squad y promover la colaboración entre el equipo
+
 * Remover barreras y, de ser necesario, coordinar sesiones con el staff de coaches para que se aclaren dudas sobre algún concepto que tú o tu Squad no ha logrado entender
+
 * Determinar si al final del tiempo establecido para el proyecto, tu solución cumple los criterios mínimos de aceptación \(establecidos en la descripción de cada proyecto\) como para considerarse “completado”. En función de esto, _determinar si puedes avanzar al siguiente proyecto o si debes enfocarte en terminar el proyecto actual._
-* Darte guía y consejos sobre tu progreso general y sobre tu avance en los niveles de las habilidades a desarrollar. Esto incluye consejos de qué cosas enfocarte en el próximo proyecto, si es recomendable hacer arreglos al proyecto actual y entregarlo de nuevo, etc.
+
+* Darte guía y consejos sobre tu progreso general y sobre tu avance en los niveles de las habilidades a desarrollar. Esto incluye consejos de qué 
+cosas enfocarte en el próximo proyecto, si es recomendable hacer arreglos al proyecto actual y entregarlo de nuevo, etc.
 
 Moderar las sesiones de Peer Review \(revisión entre pares\) al final del proyecto. En esta actividad una compañera te evaluará indicando el nivel que lograste alcanzar para cada habilidad técnica y blanda. Lo mismo haces tú para una compañera y para ti como auto-evaluación.
 
@@ -139,9 +144,12 @@ Lamentablemente, no podemos esperar indefinidamente hasta que logres completar u
 Hemos preparado un documento aparte para describir el proceso de Evaluaciones en Laboratoria. Léelo con detenimiento, pero en general, cada vez que entregues tus proyectos:
 
 * Deberás hacer la dinámica de Peer Review moderada por tu Jedi Master.
+
 * Tu Jedi determina si tu entrega cumple con los criterios mínimos de aceptación. Esto determina si puedes avanzar al siguiente proyecto o debes continuar trabajando en el actual.
+
 * Tus coaches evaluarán tu solución indicando el nivel que lograste alcanzar para cada habilidad técnica de acuerdo a las expectativas descritas en las bases del proyecto.
-* Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tu Jedi, por tus compañeras y por tus coaches- te evaluará indicando el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto.
+
+* Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tu Jedi,  por tus compañeras y por tus coaches- te evaluará indicando el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto.
 
 ## Ok... ¿Los coaches cuándo intervienen?
 
@@ -158,6 +166,7 @@ También existen tres espacios importantes para interactuar con los/as coaches:
   \*Tú participas en la creación de la agenda de la sesión o sesiones.
 
 * **Horas de ayudantía \(Office Hours\)**: los/as coaches ofrecen espacios de 30-60min para consultas personalizadas para 1-2 estudiantes todos los días. Podrás reservar tu espacio con anticipación si así lo deseas, a través de esta plataforma. También podrás llegar de imprevisto, pero si hay otra estudiante antes que tú, deberás esperar.
+
 * **Revisión de soluciones:** al final del tiempo estipulado para entregar el proyecto, los/as coaches facilitarán un espacio para revisar algunas de las soluciones entregadas y dar feedback. La modalidad aquí es que se escogen aleatoriamente algunas estudiantes \(escuchamos voluntarias\) para que presenten su código/diseño al grupo y los/as coaches dan feedback en vivo. Los/as coaches también muestran su propia solución. La idea es que no avances a otro proyecto sin discutir las múltiples maneras en las que se pudo haber solucionado el proyecto. Lo mismo que siempre: mientras más participes mejor para ti y para las demás.
 
 ## ¿Existen otras dinámicas adicionales como parte de la experiencia en Laboratoria?
@@ -165,7 +174,9 @@ También existen tres espacios importantes para interactuar con los/as coaches:
 Sí, como parte de la agenda cotidiana en Laboratoria, tendremos:
 
 1. Talleres de Desarrollo Personal una vez por semana. Estos talleres tienen el propósito de generar una mejor adaptación a la vida laboral e inicio de una carrera en el sector digital. Son un espacio donde trabajamos temáticas como género, resiliencia y growth mindset, que son relevantes para tu crecimiento personal y profesional.
+
 2. Un espacio para reconocimientos para premiar y reconocer los buenos comportamientos. Hemos preparado un documento aparte para explicar nuestro programa de incentivos y reconocimientos.
+
 3. Además, tenemos constantemente talleres y charlas con invitados externos, profesionales de las mejores empresas de la industria tech que vienen al aula para compartir sus experiencias. En algunos casos, son las propias estudiantes quienes visitan las empresas para conocer de cerca cómo trabajan sus equipos de desarrollo.
 
 ## ¿Algún consejo adicional antes de empezar?
@@ -173,7 +184,9 @@ Sí, como parte de la agenda cotidiana en Laboratoria, tendremos:
 Sí, de experiencias anteriores hemos rescatado algunos aprendizajes que nos gustaría compartir contigo:
 
 1. Lee con detenimiento la descripción del proyecto y asegúrate de que entiendes lo que se pide y tienes toda la información. Si no entiendes algo, pregunta. No arranques sin entender los requerimientos a profundidad.
-2. Divide el problema en pedazos. No trates de abarcar absolutamente todo desde un comienzo. En el espíritu de la agilidad, pregúntate: ¿qué es lo mínimo que debo completar en una semana para entregarle al usuario algo que le sirva?
-3. No te saltes ninguna ceremonia. Todas cumplen un propósito importante.
-4. ¿Sientes que no sabes lo suficiente para comenzar? Esa es la idea ;\) no estás acá para aplicar lo que ya sabes, estás para aprender lo que aún no sabes. Esto es algo que te va a pasar siempre en tu carrera, así es que vamos practicando :p
 
+2. Divide el problema en pedazos. No trates de abarcar absolutamente todo desde un comienzo. En el espíritu de la agilidad, pregúntate: ¿qué es lo mínimo que debo completar en una semana para entregarle al usuario algo que le sirva?
+
+3. No te saltes ninguna ceremonia. Todas cumplen un propósito importante.
+
+4. ¿Sientes que no sabes lo suficiente para comenzar? Esa es la idea ;\) no estás acá para aplicar lo que ya sabes, estás para aprender lo que aún no sabes. Esto es algo que te va a pasar siempre en tu carrera, así es que vamos practicando :p
