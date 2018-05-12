@@ -1,4 +1,2 @@
-# Inicio
-
-![Bienvenida](/img/Laboratoria_Logo_RG-01.png)
-
+# Bienvenida
+![](/img/Laboratoria_Logo_RG-01.png)

@@ -31,7 +31,7 @@ La mejor manera de empezar es… ¡empezando!
 
 Acuérdate de las diferencias entre el trabajo en la era industrial y el trabajo en la era del conocimiento \(fábrica de Ford vs. innovación en Nordstrom del día 2 de la semana 1\). Cuando TODAVÍA no sabes cómo hacer algo, tu proceso debería verse así:
 
-![Proceso](https://github.com/Laboratoria/BootcampSemana1/blob/master/sem1_caos.PNG)
+![Proceso](/img/sem1_caos.png)
 
 Los objetivos de aprendizaje de cada proyecto están linkeados a los tópicos relevantes de nuestro catálogo de contenido interno dentro del LMS. Este catálogo contiene lecturas, videos, ejercicios prácticos, etc. que han preparado coaches de Laboratoria. Los proyectos también vienen con una lista de contenido externo \(de Internet\) que puedes utilizar para aprender. Todo ese material está a tu disposición. Puedes ir a través del material \(interno y externo\) y luego empezar a hackear/diseñar. O puedes ir sobre la marcha. Tú decides.
 
@@ -43,7 +43,7 @@ También recuerda que siempre cuentas con Google y con tus compañeras. Cómo af
 
 En el marco de simular el ambiente laboral en Laboratoria, hemos adoptado los [valores](http://agilemanifesto.org/iso/es/manifesto.html) y [principios](http://agilemanifesto.org/iso/es/principles.html) de la cultura Ágil y hemos creado el concepto del Agile Classroom para describir el flujo y la mecánica de trabajo que seguimos para completar cada proyecto.
 
-![Ágill](https://github.com/Laboratoria/BootcampSemana1/blob/master/sem1_tablero.PNG)
+![Ágill](/img/sem1_tablero.png)
 
 El Agile Classroom tiene cuatro \(4\) componentes esenciales:
 
