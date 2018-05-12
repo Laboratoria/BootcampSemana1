@@ -5,7 +5,7 @@
 * [Cómo se aprende en Laboratoria](3aprende.md)
 * [Evaluaciones en Laboratoria](4evaluaciones.md)
 * [Incentivos y reconocimientos](5reconocimientos.md)
-* Presentaciones de la semana
+* [Presentaciones de la semana]()
 	* [Día 1](dia1.md)
 	* [Día 2](dia2.md)
 	* [Día 3](dia3.md)
