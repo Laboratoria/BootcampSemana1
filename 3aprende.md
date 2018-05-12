@@ -17,8 +17,6 @@ Al mismo tiempo, al ser experiencias de aprendizaje, los proyectos han sido dise
 3. Presenta las habilidades técnicas y blandas que desarrollarás, y el nivel de dominio que esperamos alcances en cada una de esas habilidades. 
 4. Incluye una sugerencia por dónde empezar, junto con una serie de tips/pistas
 
-Para que tengas una idea, el primer proyecto que deberás completar en Laboratoria es **Cifrado César**, para el cual tendrás un lapso de dos semanas. Dale una leída para que te familiarices el tipo de proyecto que verás durante todo el bootcamp.
-
 ## Pero yo no he hecho esto antes...
 
 Es cierto, los proyectos pueden parecer grandes y complejos, pero no te intimides. Recuerda que el control de tu aprendizaje está en tus manos. Afrontar proyectos con mucha incertidumbre es, justamente, lo que necesitas para aumentar tus capacidades.
@@ -35,9 +33,9 @@ Acuérdate de las diferencias entre el trabajo en la era industrial y el trabajo
 
 Los objetivos de aprendizaje de cada proyecto están linkeados a los tópicos relevantes de nuestro catálogo de contenido interno dentro del LMS. Este catálogo contiene lecturas, videos, ejercicios prácticos, etc. que han preparado coaches de Laboratoria. Los proyectos también vienen con una lista de contenido externo \(de Internet\) que puedes utilizar para aprender. Todo ese material está a tu disposición. Puedes ir a través del material \(interno y externo\) y luego empezar a hackear/diseñar. O puedes ir sobre la marcha. Tú decides.
 
-Para los primeros proyectos tendrás mucho contenido interno y muchas pistas/tips. Conforme pase el tiempo, esto irá disminuyendo. Es como cuando aprendes a rodar bicicleta con esas rueditas adicionales de apoyo al principio. Podemos empezar con ese apoyo adicional, pero debe llegar el momento que puedas rodar bicicleta sin ayuda.
+Para los primeros proyectos tendrás mucho contenido interno y muchas pistas/tips. Conforme pase el tiempo, esto irá disminuyendo. Es como cuando aprendes a rodar bicicleta con esas rueditas adicionales de apoyo al principio. Podemos empezar con ese apoyo adicional, pero debe llegar el momento en el que puedas hacerlo sin ayuda.
 
-También recuerda que siempre cuentas con Google y con tus compañeras. Cómo afrontas el reto depende de ti. Utiliza todos los recursos que encuentres. Todo vale, siempre y cuando - tal como lo indican los **valores de aula de Laboratoria** - trabajes de manera honesta, sin copiar y que siempre puedas explicar el racional detrás de tu trabajo.
+También recuerda que siempre cuentas con Google y con tus compañeras. Cómo afrontas el reto depende de ti. Utiliza todos los recursos que encuentres. Todo vale, siempre y cuando - tal como lo indican los **valores de aula de Laboratoria** - trabajes de manera honesta, sin copiar, y que siempre puedas explicar cómo hiciste de tu trabajo.
 
 ## ¿Cómo es el flujo de trabajo en Laboratoria?
 
@@ -135,7 +133,7 @@ Moderar las sesiones de Peer Review \(revisión entre pares\) al final del proye
 
 Los proyectos en Laboratoria están diseñados de forma que van creciendo en complejidad y, de alguna manera, se van construyendo uno sobre la base del otro. Entonces, si alguien avanza al siguiente tema sin necesariamente haber dominado el anterior, se genera el problema del “queso suizo en el aprendizaje”: a pesar de que por fuera parece que todo bien, por dentro está lleno de agujeros.
 
-En Laboratoria nos enfocamos menos en que termines el proyecto en el tiempo establecido y más en que lo termines en el tiempo que necesitas para garantizar que avanzas sin “huecos” en tu conocimiento.
+En Laboratoria nos enfocamos menos en que termines el proyecto en el tiempo establecido y más en que lo termines en el tiempo que necesitas para garantizar que avanzas sin “agujeros” en tu conocimiento.
 
 Lamentablemente, no podemos esperar indefinidamente hasta que logres completar un proyecto. Consideramos que algo anda mal si has invertido más del doble del tiempo originalmente estipulado. Si esto sucede, tu Training Manager y/o tu coach de desarrollo personal, se comunicará contigo para definir cuáles son las alternativas de acción, ya que esto afecta directamente la posibilidad de obtener la Recomendación de Empleabilidad.
 
@@ -157,7 +155,7 @@ Siempre habrán coaches en el aula mientras estás hackeando o diseñando.
 
 También existen tres espacios importantes para interactuar con los/as coaches:
 
-* **Talleres de Preguntas y Respuestas - Modalidad Open Space**: dos veces por semana los/as coaches facilitarán talleres de preguntas y respuestas donde tú y tus compañeras de aula \(todos los Squads juntos\) proponen temas y los/as coaches realizan un taller en función de lo pedido. En algunos casos se puede dividir el salón en dos grupos, así dos coaches pueden facilitar dos sesiones en paralelo y cubrir más necesidades. Recuerda que tú estás en control: venir a una sesión de preguntas y respuestas sin hacer preguntas, ¡es como ir al cine y cerrar los ojos!
+* **Talleres de Preguntas y Respuestas**: los/as coaches facilitarán talleres de preguntas y respuestas donde tú y tus compañeras de aula \(todos los Squads juntos\) proponen temas y los/as coaches hacen un taller en función de lo pedido. En algunos casos se puede dividir la sala de clases en  grupos, así tus coaches pueden facilitar sesiones en paralelo y cubrir más necesidades. Recuerda que tú estás en control: venir a una sesión de preguntas y respuestas sin hacer preguntas, ¡es como ir al cine y cerrar los ojos!
 
   \*¿Por qué te sentarías 2 horas de tu vida \(que no volverán\) a escuchar, pasivamente, una conversación sobre algo que ya sabes?
 
@@ -165,9 +163,9 @@ También existen tres espacios importantes para interactuar con los/as coaches:
 
   \*Tú participas en la creación de la agenda de la sesión o sesiones.
 
-* **Horas de ayudantía \(Office Hours\)**: los/as coaches ofrecen espacios de 30-60min para consultas personalizadas para 1-2 estudiantes todos los días. Podrás reservar tu espacio con anticipación si así lo deseas, a través de esta plataforma. También podrás llegar de imprevisto, pero si hay otra estudiante antes que tú, deberás esperar.
+* **Horas de ayudantía \(Office Hours\)**: los/as coaches ofrecen espacios de 30-60min para consultas personalizadas para 1-2 estudiantes todos los días. Podrás reservar tu espacio con anticipación si así lo deseas. También podrás llegar de imprevisto, pero si hay otra estudiante antes que tú, deberás esperar.
 
-* **Revisión de soluciones:** al final del tiempo estipulado para entregar el proyecto, los/as coaches facilitarán un espacio para revisar algunas de las soluciones entregadas y dar feedback. La modalidad aquí es que se escogen aleatoriamente algunas estudiantes \(escuchamos voluntarias\) para que presenten su código/diseño al grupo y los/as coaches dan feedback en vivo. Los/as coaches también muestran su propia solución. La idea es que no avances a otro proyecto sin discutir las múltiples maneras en las que se pudo haber solucionado el proyecto. Lo mismo que siempre: mientras más participes mejor para ti y para las demás.
+* **Revisión de soluciones:** al final del tiempo estipulado para entregar el proyecto, los/as coaches facilitarán un espacio para revisar algunas de las soluciones entregadas y dar feedback. Los/as coaches también muestran su propia solución. La idea es que no avances a otro proyecto sin discutir las múltiples maneras en las que se pudo haber solucionado el proyecto. Lo mismo que siempre: mientras más participes mejor para ti y para las demás.
 
 ## ¿Existen otras dinámicas adicionales como parte de la experiencia en Laboratoria?
 
@@ -175,18 +173,16 @@ Sí, como parte de la agenda cotidiana en Laboratoria, tendremos:
 
 1. Talleres de Desarrollo Personal una vez por semana. Estos talleres tienen el propósito de generar una mejor adaptación a la vida laboral e inicio de una carrera en el sector digital. Son un espacio donde trabajamos temáticas como género, resiliencia y growth mindset, que son relevantes para tu crecimiento personal y profesional.
 
-2. Un espacio para reconocimientos para premiar y reconocer los buenos comportamientos. Hemos preparado un documento aparte para explicar nuestro programa de incentivos y reconocimientos.
+2. Un espacio para reconocimientos para premiar y reconocer los buenos comportamientos. Hemos preparado un documento aparte para explicar nuestro programa de reconocimientos.
 
-3. Además, tenemos constantemente talleres y charlas con invitados externos, profesionales de las mejores empresas de la industria tech que vienen al aula para compartir sus experiencias. En algunos casos, son las propias estudiantes quienes visitan las empresas para conocer de cerca cómo trabajan sus equipos de desarrollo.
+3. Además, constantemente tenemos talleres y charlas con invitados externos, profesionales de las mejores empresas de la industria que vienen al  para compartir sus experiencias. En algunos casos, son las propias estudiantes quienes visitan las empresas para conocer de cerca cómo trabajan sus equipos de desarrollo.
 
 ## ¿Algún consejo adicional antes de empezar?
 
 Sí, de experiencias anteriores hemos rescatado algunos aprendizajes que nos gustaría compartir contigo:
 
-1. Lee con detenimiento la descripción del proyecto y asegúrate de que entiendes lo que se pide y tienes toda la información. Si no entiendes algo, pregunta. No arranques sin entender los requerimientos a profundidad.
+1. Lee con detenimiento la descripción de los proyectos y asegúrate de que entiendes lo que se pide y tienes toda la información. Si no entiendes algo, pregunta. No arranques sin entender los requerimientos a profundidad.
 
-2. Divide el problema en pedazos. No trates de abarcar absolutamente todo desde un comienzo. En el espíritu de la agilidad, pregúntate: ¿qué es lo mínimo que debo completar en una semana para entregarle al usuario algo que le sirva?
+2. Divide el problema en pedazos. No trates de abarcar absolutamente todo desde un comienzo. En el espíritu de la agilidad, pregúntate: ¿qué es lo mínimo que debo completar para entregarle al usuario algo que le sirva?
 
-3. No te saltes ninguna ceremonia. Todas cumplen un propósito importante.
-
-4. ¿Sientes que no sabes lo suficiente para comenzar? Esa es la idea ;\) no estás acá para aplicar lo que ya sabes, estás para aprender lo que aún no sabes. Esto es algo que te va a pasar siempre en tu carrera, así es que vamos practicando :p
+3. ¿Sientes que no sabes lo suficiente para comenzar? Esa es la idea ;\) no estás acá para aplicar lo que ya sabes, estás para aprender lo que aún no sabes. Esto es algo que te va a pasar siempre en tu carrera, así es que vamos practicando :p
