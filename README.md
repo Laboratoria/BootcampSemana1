@@ -1,2 +1,4 @@
-# Bienvenida
-![](/img/Laboratoria_Logo_RG-01.png)
+# Inicio
+
+![](.gitbook/assets/laboratoria_logo_rg-01.png)
+
