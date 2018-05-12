@@ -80,11 +80,6 @@ Las pruebas de calidad presentan los siguientes objetivos: encontrar defectos o 
 
 * Siempre consideramos tu último nivel alcanzado y jamás lo promediamos con lo que haya sucedido en el pasado.
 
-## ¿Qué sucede si no entrego mi proyecto? \(SCL y CDMX\)
-* Una falta en entrega genera una advertencia y se debe escalar a la TM. Tendrás un tiempo extra para completar lo que te faltó
-
-* Si tampoco lo haces después del tiempo extra, eso puede ser causa de invitación a retirarse.
-
 ## ¿Qué sucede si no entrego mi proyecto? \(LIM\)
 * Si no logras completar el proyecto cumpliendo con los criterios mínimos de aceptación \(establecidos en la descripción de cada proyecto\), no podrás avanzar al siguiente proyecto. Deberás enfocarte en terminar el proyecto actual.
 
@@ -112,32 +107,30 @@ Tu **profesionalismo** y/o tus actitudes respecto a los valores de aula pueden g
 * **Irresponsabilidad**: no cumplir con los entregables, a pesar de haber tenido tiempo extra para completarlo.
 
 ## Preguntas Frecuentes
-1. ¿Cuáles son los niveles específicos que tengo que tener al final del common core? **Link a mapas**
+- ¿Qué pasa si, al final del bootcmap, en algunas habilidades estoy en el nivel requerido o por encima de él y solo en una habilidad estoy debajo? **No obtienes tu RE de manera automática. Tendrás que trabajar en alcanzar el nivel en las semanas posteriores al final del bootcamp.**
 
-2. ¿Qué pasa si, al final del bootcmap, en algunas habilidades estoy sobre el nivel requerido y en solo una habilidad estoy ligeramente debajo? **No obtienes tu RE de manera automática. Tendrás que trabajar en alcanzar el nivel en las semanas posteriores al final del bootcamp.**
+- ¿Me van a evaluar sobre la base de un único proyecto?, ¡esto podría ser algo injusto! **Such is life so be prepared. Tranquilidad, recuerda que siempre puedes mejorar tu proyecto para re evaluar tu nivel.**
 
-3. ¿Me van a evaluar sobre la base de un único proyecto?, esto podría ser algo injusto! **Such is life so be prepared. Tranquilidad, recuerda que siempre puedes mejorar tu proyecto para re evaluar tu nivel.**
+- ¿Qué pasa si mis pares me evalúan mal porque no quieren que yo avance?, ¿me veré perjudicada? **La evaluación de tus pares tiene por propósito final que recibas feedback. La evaluación del nivel es siempre la de Laboratoria.**
 
-4. ¿Qué pasa si mis pares me evalúan mal porque no quieren que yo avance?, ¿me veré perjudicada? **La evaluación de tus pares tiene por propósito final que recibas feedback. La evaluación del nivel es siempre la de Laboratoria.**
+- ¿Los niveles a los que tengo que llegar en el *common core* son los mismos para front-end que para UX? Si son especializaciones diferentes deberían requerir niveles diferentes. **Pues no, consideramos que un buen UX designer tiene una gran ventaja al tener las habilidades técnicas de front end que desarrollarás durante el common core en los niveles que indicamos.**
 
-5. ¿Los niveles a los que tengo que llegar en el common core son los mismos para front-end que para UX? Si son especializaciones diferentes deberían requerir niveles diferentes. **Pues no, consideramos que un buen UX designer tiene una gran ventaja al tener las habilidades técnicas de front end que desarrollarás durante el common core en los niveles que indicamos.**
+- Si hay proyectos grupales y el grupo que me toca no trabaja bien y por eso no hacemos un buen proyecto, ¿me veré perjudicada? **Quizás deberías pensar en que “no trabajamos bien”. Tú eres parte del equipo y debes procurar que el trabajo funcione lo mejor posible también. Siempre puedes conversar estas situaciones con tu Training Manager.**
 
-6. Si hay proyectos grupales y el grupo que me toca no trabaja bien y por eso no hacemos un buen proyecto, ¿me veré perjudicada? **Quizás deberías pensar en que “no trabajamos bien”.Tú eres parte del equipo y debes procurar que el trabajo funcione lo mejor posible también. Siempre puedes conversar estas situaciones con tu Training Manager.**
+- ¿En qué consiste la evaluación entre pares? **Entre compañeras de equipo se evalúan con la finalidad de darse feedback**
 
-7. ¿En qué consiste la evaluación entre pares? **Entre compañeras de equipo se evalúan con la finalidad de darse feedback**
+- ¿Mi jedi me evalúa? **Sí, evalúa tus habilidades blandas junto con todo el equipo de formación.**
 
-8. ¿Mi jedi me evalúa? **Sí, evalúa tus habilidades blandas junto con todo el equipo de formación.**
+- ¿Puedo llegar a graduarme sin recibir RE? **Sí, claro. Tu esfuerzo y experiencia son un gran logro. Recuerda que puedes volver a revisar y trabajar en tus proyectos para que podamos volver a evaluar tu nivel y reconsiderar darte la RE.**
 
-9. ¿Puedo llegar a graduarme sin recibir RE? **Sí, claro. Tu esfuerzo y experiencia son un gran logro. Recuerda que puedes volver a revisar y trabajar en tus proyectos para que podamos volver a evaluar tu nivel y reconsiderar darte la RE.**
+- ¿Cuándo me dicen si tendré la RE? **Al final del bootcamp. Igual, siempre sabes qué tan cerca o lejos estás según los niveles que vas alcanzando durante los proyectos.**
 
-10. ¿Cuándo me dicen si tendré la RE? **Al final del bootcamp. Igual, siempre sabes qué tan cerca o lejos estás según los niveles que vas alcanzando durante los proyectos.**
-
-11. ¿Es posible bajar en el nivel de una habilidad de un proyecto a otro? **Sí, puede pasar y es solamente un indicador de que debes prestarle más atención a esa habilidad en particular.**
+- ¿Es posible bajar en el nivel de una habilidad de un proyecto a otro? **Sí, puede pasar y es solamente un indicador de que debes prestarle más atención a esa habilidad en particular. No hay problema, recuerda que no promediamos.**
 
 12. No entendí bien quién me va a evaluar al final. ¿Quien decide en qué nivel me encuentro y cómo lo hace? **Para tus habilidades blandas: Todo el equipo de formación de Laboratoria \(Jedis, coaches, coord de desarrollo personal\). Para tus habilidades técnicas: tus coaches.**
 
-13. ¿Cuál es la diferencia entre habilidades blandas y profesionalismo? ¿Qué es lo más importante de los dos? Me resulta confuso. **Profesionalismo es algo que exigimos desde el primer día. Para estar en Laboratoria debes demostrar compromiso por estar acá, respeto hacia los demás y ser honesta con tu trabajo. Faltas de profesionalismo implican que debes retirarte del programa porque no estás cumpliendo con una regla de convivencia. Las habilidades blandas las desarrollarás en el camino, conforme ganes experiencia.**
+13. ¿Cuál es la diferencia entre habilidades blandas y profesionalismo? ¿Qué es lo más importante? Me resulta confuso. **Tu profesionalismo es algo que exigimos desde el primer día. Debes demostrar compromiso por estar acá, respeto hacia los demás y ser honesta con tu trabajo. Faltas de profesionalismo implican que debes retirarte del programa porque no estás cumpliendo con una regla de convivencia. Las habilidades blandas las desarrollarás en el camino, conforme ganes experiencia.**
 
-14. ¿Es más importante la parte técnica o la parte de soft skills? ¿En qué debo enfocarme? ¿Cual de las dos tiene más peso? **No hay pesos ni promedios. Todas son importantes por igual, concéntrate en alcanzar el nivel indicado para cada una.**
+14. ¿Es más importante la parte técnica o la parte de habilidades blandas? ¿En qué debo enfocarme? ¿Cual de las dos tiene más peso? **No hay pesos ni promedios. Todas son importantes por igual, concéntrate en alcanzar el nivel indicado para cada una.**
 
 15. ¿Cada cuánto tiempo me darán feedback?, ¿quién lo hará? **Tendrás feedback todas la semanas, te lo darán tus coaches.**
