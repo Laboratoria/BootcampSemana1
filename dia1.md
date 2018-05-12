@@ -1,2 +1,2 @@
 ![](/img/sem_icon_pres.png)
-[Ver Presentación](https://docs.google.com/presentation/d/e/2PACX-1vTeJLWwmhtGH7OhnuV0upCCSjiI1WzKLbP-v1c7l4q-ddAuf5i1ErWuYL7irQFd9rjqDFvUj2lASi90/pub?start=false&loop=false&delayms=600000)
+[Ver Presentación](https://docs.google.com/presentation/d/e/2PACX-1vR24zsKOCjpufhhVPffMzv0Eh0KSbQsUpCtD0rtjiCcPYiMYy1t6RbgVV4W78GdXjq_3tlsLPJb5n-D/pub?start=false&loop=false&delayms=600000)
