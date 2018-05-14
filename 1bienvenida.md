@@ -1,95 +1,83 @@
-# Carta de bienvenida
+Olá, querida estudante,
 
-Hola,
-Bienvenida y felicitaciones por ser parte de Laboratoria.
+Bem-vinda à Laboratória e parabéns por ser parte da primeira promoção da Laboratória no Brasil.
 
-Antes de empezar este camino, queremos contarte sobre la filosofía de aprendizaje en Laboratoria y las bases de nuestra cultura de aula. Laboratoria es muy diferente a la educación tradicional; pero diferente de una buena manera ;\)
+Antes de começar este caminho, queremos te contar sobre a filosofia de aprendizagem na Laboratória e as bases da nossa cultura de aula. A Laboratória é muito diferente da educação tradicional; mas diferente de uma boa maneira ;)
 
-Nuestra filosofía de aprendizaje se basa en **tu habilidad innata por aprender**. Todas nacemos con una profunda motivación natural por aprender y con la habilidad de desarrollarnos por nosotras mismas. Piensa en los bebés: motivados por una inmensa curiosidad sobre el mundo que los rodea, aprenden cosas nuevas todos los días. Con mínima ayuda aprenden a gatear y luego a caminar. Algunos, inclusive, logran dominar el arte sutil de la manipulación desde muy temprana edad - de hecho, más temprano de lo que algunos padres quisieran.
+Nossa filosofia de aprendizagem se baseia na **habilidade inata de aprender**. Todas nascemos com uma profunda motivação natural por aprender e com a habilidade de nos desenvolvermos por nós mesmas. Veja só os bebês: motivados por uma imensa curiosidade sobre o mundo que os rodeia, aprendem coisas novas todos os dias. Com só um pouco de ajuda aprendem a engatinhar e logo a caminhar. Alguns, inclusive, conseguem dominar a arte sutil da manipulação desde muito novinhos - de fato, mais cedo do que alguns pais gostariam.
 
-Pero algo sucede cuando crecemos. De adultos perdemos esa pasión por descubrir cosas nuevas y por el aprendizaje continuo. Poco a poco empezamos a temer a los fracasos y empiezan a brotar las inseguridades. Vivimos con miedo a quedar mal frente a los demás. Eso limita nuestro aprendizaje y crecimiento porque evitamos exponernos y preferimos quedarnos en nuestra \(pequeña\) zona de confort. Más aún, falsos estereotipos y etiquetas negativas alimentan nuestras inseguridades. ¿Cuántas mujeres, por ejemplo, abandonan o dejan de perseguir carreras en ciencia y tecnología por ese profesor, familiar, o amigo nefasto que les hizo creer que son carreras solo para hombres o que no eran buenas?
+Mas algo acontece quando crescemos. Quando adultos, perdemos esta paixão por descobrir coisas novas e pela aprendizagem contínua. Pouco a pouco começamos a temer o fracasso e começam a surgir as inseguranças. Vivemos com medo a parecer bobos na frente dos outros. Isto limita nosso aprendizado e crescimento porque evitamos nos expor e preferimos ficar na nossa (pequena) zona de conforto. Além disso, falsos estereótipos e etiquetas negativas alimentam nossas inseguranças. Quantas mulheres, por exemplo, abandonam ou deixam de frequentar carreiras de ciência e tecnologia por causa de um professor, familiar, ou amigo infeliz que a fez acreditar que são profissões somente para homens ou que elas não eram suficientemente boas para isso?
 
-Laboratoria es un mundo diferente. Es un espacio diseñado para revivir la pasión por el aprendizaje y dejar atrás los estereotipos. Lo hacemos por medio de cuatro aspectos clave de nuestra cultura:
+Laboratória é um mundo diferente. É um espaço desenhado para reviver a paixão pelo aprendizado e deixar para trás os estereótipos. Eis aqui quatro aspectos chave da nossa cultura:
 
-### 1. Un espacio seguro y de confianza
+**1. Um espaço seguro e de confiança**
+O ingrediente principal do nosso modelo é você. A Laboratória é uma comunidade de mulheres que se apoiam entre si. Cada uma é diferente, mas todas compartilham um sonho comum: crescer profissionalmente no mundo da tecnologia e ver mais mulheres criando tecnologia. Algo mágico acontece quando se une um grupo de mulheres com vontade de se superar e apaixonadas por empoderamento feminino e igualdade de gênero.
 
-El ingrediente principal de nuestro modelo eres tú. Laboratoria es una comunidad de mujeres que se apoyan unas a otras. Cada una de ustedes es diferente, pero todas comparten un sueño común: crecer profesionalmente en el mundo de la tecnología y ver a más mujeres creando tecnología. Algo mágico sucede cuando se une un grupo de mujeres con ganas de superarse y apasionadas por el empoderamiento femenino y la igualdad de género.
+Na Laboratória damos exemplo de solidariedade entre mulheres. Aqui as diferenças se integram e se enriquecem. Laboratória significa companheirismo, um espaço onde valorizamos, respeitamos e admiramos o esforço de todas as pessoas.
 
-En Laboratoria damos el ejemplo de solidaridad entre mujeres. Acá las diferencias se integran y se enriquecen. Laboratoria significa compañerismo, un espacio donde valoramos, respetamos y admiramos el esfuerzo de todas las personas.
+Neste marco de comunidade, a confiança é um valor fundamental. A Laboratória é um espaço onde você pode dizer "eu não sei" ou "eu não entendo", e onde você pode perguntar e pedir ajuda sem medo. Na verdade, esperamos que você realmente o faça. Isso se aplica tanto a você, que está começando, quanto à equipe de mentores da Laboratória que te ajudará a aprender um novo conceito ou a resolver qualquer dúvida que você possa ter. Seus mentores não sabem tudo, o mundo da tecnologia e da inovação é grande e complexo demais para que existam pessoas com todas as respostas.
 
-En este marco de comunidad, la confianza es un valor fundamental. Laboratoria es un espacio donde puedes decir “no sé” o “no entiendo”, y donde puedes preguntar y pedir ayuda sin miedo. De hecho, esperamos que lo hagas. Esto aplica tanto para ti, que estás empezando, como para el equipo de _coaches _de Laboratoria que te ayudarán a aprender algún concepto nuevo o a resolver alguna duda que tengas. Tus _coaches _no lo saben todo, el mundo de la tecnología y la innovación es muy grande y complejo como para pretender que existan personas que tienen todas las respuestas.
+Por ser um ambiente seguro, conversamos abertamente sobre nossas inseguranças e sobre o que queremos melhorar. Agimos assim porque reconhecemos que são coisas que nós **podemos** mudar. Neste sentido, o feedback aberto, transparente e respeitoso é um elemento essencial da nossa maneira de trabalhar. Aqui não existe o feedback anônimo. Na Laboratória o feedback é um presente: algo que oferecemos aos outros para seu desenvolvimento; não é uma lista de reclamações. Não se preocupe se dar ou receber feedback te deixa ansiosa, isso é algo que você irá melhorando durante o Bootcamp.
 
-Al ser un ambiente seguro, conversamos abiertamente sobre nuestras inseguridades y lo que queremos mejorar. Lo hacemos porque reconocemos que son cosas que **podemos **cambiar. En este sentido, el feedback \(retroalimentación\) abierto, transparente y respetuoso es un elemento esencial de nuestra manera de trabajar. Aquí no existe el feedback anónimo. En Laboratoria el feedback es un regalo: algo que damos a los demás para su desarrollo; no es una lista de quejas. No te preocupes si te pone ansiosa dar o recibir feedback, es algo que irás mejorando durante el Bootcamp.
+**2. Mentalidade de crescimento**
+Adotar uma mentalidade de crescimento é algo fundamental para fomentar a paixão pelo aprendizado. A mentalidade de crescimento, como nos conta [Carol Dweck](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322), se baseia na crença de que as suas qualidades básicas - inteligência, personalidade e caráter moral - são coisas que você pode cultivar através do esforço, da estratégia e da ajuda dos outros. Embora as pessoas sejam diferentes em todos os sentidos - em talento, aptidões, interesses ou temperamento - todos temos a capacidade de mudar e crescer quando nos dedicamos.
 
-### 2. Mentalidad de crecimiento
+Compreender que o esforço é o que molda nossas habilidades nos ajuda a sair da nossa zona de conforto. Impulsiona a buscar novas oportunidades, a nos aventurarmos por algo novo, a tentar fazer coisas mais difíceis… coisas assim como Laboratória.
 
-Adoptar una mentalidad de crecimiento juega un papel fundamental para fomentar la pasión por el aprendizaje en Laboratoria. La mentalidad de crecimiento, como nos cuenta [Carol Dweck](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322), se basa en la creencia de que tus cualidades básicas -inteligencia, personalidad y carácter moral- son cosas que puedes cultivar a través del esfuerzo, de la estrategia y la ayuda de los demás. Aunque las personas difieren en todos los sentidos -en talento, aptitudes, intereses o temperamento- todos tenemos la capacidad de cambiar y crecer cuando nos aplicamos.
+Nosso programa está desenhado para desafiar o seus limites. Fazemos assim porque acreditamos que ali é onde acontece a magia. Sim, é um programa difícil, mas isto o torna mais interessante! Você terá avanços, retrocessos e quedas, mas lembre-se: **as quedas são sinais de esforço, não de fracasso**. Ao aprender algo novo, o [cérebro muda](https://www.goconqr.com/es/examtime/blog/teoria-del-aprendizaje-neuroplasticidad/); [faz novas conexões](https://www.cognifit.com/es/plasticidad-cerebral), constrói novos modelos mentais e aumenta a suas capacidades. O cérebro é como um músculo que se torna mais forte com a prática. Conforme mais difícil a prática, mais forte ele fica.
 
-Comprender que el esfuerzo es lo que moldea nuestras habilidades nos ayuda a salir de nuestra zona de confort. Nos impulsa a buscar nuevas oportunidades, a aventurarnos por algo nuevo, a intentar hacer cosas más difíciles… cosas como Laboratoria.
+Durante os próximos seis meses haverá momentos nos quais você duvidará das suas capacidades para este programa. Isto acontece com todas nós. De fato, existe um padrão psicológico que descreve este sentimento: chama-se a [síndrome do impostor](https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_impostor). Quando isto acontecer, reconheça que as sensações de medo só estão na sua cabeça. Você superou nosso processo de seleção; está aqui porque acreditamos em você e sabemos que tem tudo o que se necessita para crescer na Laboratória. Você está aprendendo; não é nossa expectativa (nem deve ser a sua) que domine tudo em profundidade e que seja uma expert. Ninguém é! Aceite e abrace a incerteza de explorar algo novo e complexo.
 
-Nuestro programa está diseñado para empujar tus límites. Lo hacemos porque creemos que allí es donde ocurre la magia. Sí, es un programa difícil ¡pero eso lo hace más interesante! Vas a tener avances, retrocesos y caídas, pero recuerda: **las caídas son señales de esfuerzo, no de fracaso**. Al aprender algo nuevo, [tu cerebro cambia](https://www.goconqr.com/es/examtime/blog/teoria-del-aprendizaje-neuroplasticidad/); [hace nuevas conexiones](https://www.cognifit.com/es/plasticidad-cerebral), construye nuevos modelos mentales y aumenta tus capacidades. El cerebro es como un músculo que se hace más fuerte con la práctica. Mientras más difícil la práctica, más fuerte se hace.
+Entenda também que todas a suas companheiras estão neste mesmo processo de adaptação. Apoie-se e seja empática com elas. Por mais que pareça que algumas têm tudo sob controle, é como ver um pato em um lago: aparentemente tranquilo na superfície, mas debaixo da água está (como você) “remando” fortemente.
 
-Durante los próximos seis meses habrán momentos en los que dudarás de tus capacidades para este programa. Esto nos pasa a todas. De hecho, existe un patrón psicológico que describe este sentimiento: se llama el [síndrome del impostor](https://www.google.cl/search?q=sindrome+del+impostor&oq=sindrome+&aqs=chrome.0.69i59j69i57j0l4.1855j0j9&sourceid=chrome&ie=UTF-8). Cuando te suceda, reconoce que los sentimientos de miedo solo están en tu cabeza. Has superado nuestro proceso de selección; estás aquí porque creemos en ti y sabemos que tienes todo lo que se necesita para crecer en Laboratoria. Pregúntate a quién conoces fuera de Laboratoria que sepa al menos la mitad de lo que tú has aprendido aquí. Estás aprendiendo; no es nuestra expectativa \(ni debe ser la tuya\) que domines todo a profundidad y que seas una experta. ¡Nadie lo es! Acepta y abraza la incertidumbre de explorar algo nuevo y complejo.
+**3. A autoaprendizagem e a jardinagem**
+As estudantes com mais sucesso na Laboratória são aquelas que assumiram o controle por sua própria aprendizagem. A habilidade mais importante que você desenvolverá nestes seis meses é a capacidade de *aprender a aprender (autoaprendizagem)*. Na Laboratória você será independente e aprenderá a utilizar todos os recursos que tem à disposição para alcançar seu objetivos.
 
-También, entiende que todas tus compañeras están en ese mismo proceso de adaptación. Apóyate y sé empática con ellas. Por más que parezca que algunas tienen todo bajo control, es como ver un pato en el lago: aparentemente tranquilo en la superficie, pero debajo del agua está \(al igual que tú\) “remando” fuertemente.
+O mundo da tecnologia muda muito rápido. Muito do que você aprende hoje será irrelevante amanhã. Por isso, desenvolver sua capacidade de aprender por sua conta é mais importante que aprender qualquer ferramenta de programação ou técnica de desenho. As antigas estudantes da Laboratória se tornam “aprendizes por toda a vida” (lifelong learners), constantemente adquirem novos conhecimentos e crescem como profissionais dia após dia.
 
-### 3. El autoaprendizaje y la jardinería
+Sabemos que isto é muito diferente ao que você experimentou antes. O tradicional no mundo da educação é dar protagonismo ao “profe”: uma pessoa que supostamente sabe tudo e que se encarga de ensinar os demais. Seguramente esta foi a sua experiência no colégio e em outras instituições educativas pelas quais tenha passado. Laboratória não é assim.
 
-Las estudiantes más exitosas de Laboratoria son aquellas que han tomado el control de su propio aprendizaje. La habilidad más importante que desarrollarás en estos seis meses es la capacidad de **aprender a aprender \(autoaprendizaje\)**. En Laboratoria serás independiente y aprenderás a utilizar todos los recursos que tienes a tu disposición para alcanzar tus objetivos.
+Aqui a protagonista é você: *o controle da sua aprendizagem está nas suas mãos*. Pode ser que a princípio você não tenha clareza sobre como agir, mas temos certeza de que aprenderá no caminho. Apostamos que você mesma se surpreenderá ao notar como este processo se dará rapidamente e como você se sente bem vivendo-o.
 
-El mundo de la tecnología cambia muy rápido. Mucho de lo que aprendes hoy, será irrelevante mañana. Por eso, desarrollar tu capacidad de aprender por tu cuenta es más importante que aprender cualquier herramienta de programación o técnica de diseño. Las egresadas de Laboratoria se vuelven “aprendices de por vida” \(lifelong learners\), constantemente adquieren nuevos conocimientos y crecen como profesionales día tras día.
+Mas fique tranquila, isto não quer dizer que você estará sozinha e sem ajuda. Na Laboratória nós usamos a analogia da jardinagem: as plantas também possuem a habilidade de crescer e desenvolver-se por si próprias. Entretanto, uma planta que recebe luz, água, carinho e que cresce em um ambiente propício, se desenvolverá melhor e mais rápido. Neste sentido, o papel da Laboratória é propiciar um entorno que fomente o seu desenvolvimento com autonomia.
 
-Sabemos que esto es muy diferente a lo que has vivido antes. Lo tradicional en el mundo de la educación es darle protagonismo al “profe”: esa persona que todo lo sabe y que se encarga de enseñarle a los demás. Seguramente así fue tu experiencia en el colegio y en otras instituciones educativas por las que has pasado. Laboratoria no es así.
+Tudo isto se evidencia na linguagem que utilizamos e no modelo de aprendizagem que desenhado:
 
-Aquí la protagonista eres tú: **el control de tu aprendizaje está en tus manos**. Puede que al principio no tengas claro cómo hacerlo, pero estamos seguros de que lo aprenderás en el camino. Es más, tú misma te sorprenderás cuando veas lo rápido que lo logras y lo bien que se siente.
+- Na Laboratória não há professores; existem mentores/coaches.
+- Não há aulas; e sim oficinas ou sessões de perguntas e respostas.
+- Não te ensinamos; você aprende.
+- O principal é que você se levante e busque o conhecimento, não de que nós o entreguemos.
 
-Pero tranquila, esto no quiere decir que estarás sola y sin ayuda. En Laboratoria usamos la analogía de la jardinería: las plantas también tienen la habilidad de crecer y desarrollarse solas. Sin embargo, una planta que recibe luz, agua, cariño y que crece en un entorno propicio, se desarrollará mejor y más rápido. En este sentido, el rol de Laboratoria es propiciar un entorno que fomente tu desarrollo con autonomía.
+**4. Simulando um ambiente laboral**
+Outro aspecto fundamental que define nossa cultura é a simulação de um ambiente laboral. O objetivo deste programa é que você comece uma carreira em tecnologia em poucos meses. Por isso, é importante que durante a sua estadia aqui você se sinta e se comporte como se estivesse trabalhando.
 
-Todo esto se evidencia en el lenguaje que utilizamos y en el modelo de aprendizaje que hemos diseñado:
+Laboratória está desenhada pensando que as estudantes são adultas responsáveis. Na Laboratória você terá liberdade para decidir quando, quanto e como se organiza para cumprir seus objetivos.
 
-* En Laboratoria no hay profesores; existen coaches.
-* Tampoco se imparten clases; se hacen talleres o sesiones de preguntas y respuestas.
-* No te enseñamos; tú aprendes.
-* Todo se trata de que tú te levantes y busques el conocimiento, no de que nosotros te lo entreguemos.
+Na Laboratória nós usamos bases da [andragogia](https://pt.wikipedia.org/wiki/Andragogia), que é o estudo de técnicas de aprendizagem orientadas a pessoas adultas, em contraposição à pedagogia, que está dirigida a crianças. Por isso, a aprendizagem na Laboratória está orientada à resolução de problemas e à criação de projetos e produtos; não no conteúdo ou material teórico. Isso é conhecido como aprendizado orientado a projetos. Seu caminho de aprendizado nos próximos seis meses consiste em um conjunto de projetos que você deve concluir em um determinado período de tempo. Essa dinâmica é a mesma que acontece quando você sai para o mercado de trabalho. O trabalho de um desenvolvedor da Web ou de um designer de experiência do usuário consiste basicamente em resolver problemas e criar produtos com soluções inovadoras.
 
-### 4. Simulando el ambiente laboral
+Algo que também tiramos do ambiente de trabalho que te espera é a [cultura ágil](http://agilemanifesto.org/iso/ptbr/manifesto.html). Assim como acontecerá quando você começar a trabalhar, na Laboratória você enfrentará seu aprendizado de maneira ágil. Isso significa que você irá trabalhar em curtos períodos de tempo (chamados de Sprints) para que no final de cada um você possa refletir sobre o que aconteceu, identificar melhorias e ajustar o curso. Você também irá trabalhar em equipes, que chamamos de Squads (esquadrões). Um Squad é um grupo de cinco ou mais alunos que trabalham em equipe para atingir objetivos comuns.
 
-Otro aspecto fundamental que define nuestra cultura es la simulación de un ambiente laboral. El objetivo último de este programa es que empieces una carrera en tecnología en pocos meses. Por eso, es importante que durante tu estadía acá te sientas y te comportes como si estuvieras trabajando.
+Resumindo, nossa filosofia se centra en quatro pontos:
 
-Laboratoria está diseñada pensando que las estudiantes son **adultas responsables**. En Laboratoria tendrás libertad para decidir cuándo, cuánto y cómo te organizas para cumplir tus objetivos.
+**i) Um espaço seguro e de confiança**, onde as estudiantes se apoiam umas as outras para se superarem;
+**ii) Mentalidade de crescimento**, pois seu esforço é o ingrediente secreto que fará com que você saia da sua zona de conforto para descobrir e desenvolver novas habilidades,
+**iii) Auto-aprendizagem e jardinagem**, onde você assumirá o controle sob um ambiente auspicioso que criamos para você e
+**iv) Simulação de um ambiente de trabalho**, onde você trabalha em equipe, de forma ágil e incremental.
 
-En Laboratoria tomamos las bases de la [andragogía](https://es.wikipedia.org/wiki/Andragog%C3%ADa), que es el estudio de las técnicas de aprendizaje orientadas a personas adultas, en contraposición de la pedagogía, que está dirigida a los niños. Por eso, el aprendizaje en Laboratoria está orientado a la resolución de problemas y a la creación de proyectos y productos; no está centrado en el contenido o materia teórica. Esto se conoce como **aprendizaje orientado a proyectos**. Tu ruta de aprendizaje en los próximos seis meses está formada por un conjunto de proyectos que debes completar en un período de tiempo establecido. Esta dinámica es la misma que sucederá cuando salgas al mercado laboral. El trabajo de una desarrolladora web o de una diseñadora de experiencias de usuario consiste básicamente en resolver problemas y crear productos con soluciones innovadoras.
+**O que esperamos de você?**
+Como você viu, nossa filosofia de aprendizagem é radicalmente diferente da tradicional. O modelo que seguimos e a cultura que promovemos são mais semelhantes a uma empresa de tecnologia do que a uma faculdade ou universidade.
 
-Algo que también tomamos del entorno laboral que te espera es la [cultura ágil](http://agilemanifesto.org/iso/es/manifesto.html). Tal como lo harás cuando empieces a trabajar, en Laboratoria enfrentarás tu aprendizaje de forma ágil. Esto quiere decir que trabajarás en períodos cortos de tiempo \(llamados Sprints\) para que al finalizar cada uno puedas reflexionar sobre lo sucedido, identificar mejoras y ajustar el rumbo. También trabajarás en equipos, que llamamos Squads \(escuadrones\). Un Squad de aprendizaje es un grupo de cinco o más estudiantes que trabajan como equipo para alcanzar los objetivos comunes.
+Da mesma forma, as expectativas que temos de você são diferentes e são expressas nos [valores da sala](https://laboratoria1.gitbook.io/bienvenida/v/SPL/semana/valores-de-sala) da Laboratória. Eles são o conjunto de atitudes e comportamentos que valorizamos e esperamos dos alunos. Os valores descrevem explicitamente o que esperamos de você e determinam - em grande medida - se um aluno é reconhecido, se obtém a recomendação de empregabilidade ou se é convidado a se retirar.
 
-**Resumiendo, nuestra filosofía se centra en cuatro puntos:**  
-1. **Un espacio seguro y de confianza**, donde las estudiantes se apoyan unas  a otras para superarse,
+Tudo o que fazemos na Laboratória é projetado para você. Criamos esse modelo de aprendizado para garantir que você esteja o mais preparado possível para começar sua carreira. No entanto, isso não funciona sem você fazer sua parte. Você deve viver e respirar essa filosofia todos os dias e encorajar valores entre seus colegas. Você deve ser um representante e um embaixador dessa cultura e dessa maneira de pensar e agir. Contamos com você!
 
-2. **Mentalidad de crecimiento**, donde tu esfuerzo es el ingrediente secreto que te hará salir de tu zona de confort para descubrir y desarrollar nuevas habilidades,
+**O que você pode esperar da Laboratória?**
+A missão de todos os treinadores e da equipe da Laboratória é que você e suas colegas se tornem as melhores desenvolvedoras e designers de experiências de usuários que possam ser. Este não é um trabalho que fazemos só por fazer; Fazemos isso porque somos apaixonados e acreditamos que você tem o poder de construir um setor tecnológico melhor para todos. É você quem vai transformar o seu futuro e a cara de uma indústria, que será mais inovadora graças às suas contribuições.
 
-3. **El autoaprendizaje y la jardinería**, donde tú tomarás el control bajo un entorno propicio que nosotros creamos para ti y
+Assim como lhes pedimos, também "tomamos o mesmo remédio": assumimos riscos, saímos de nossa zona de conforto e estamos abertos ao feedback. Se falharmos em algo - o que certamente irá acontecer - estaremos sempre abertos para ouvir suas recomendações. Fazemos isso porque reconhecemos que você e suas colegas são as que melhor podem nos ajudar a melhorar a experiência da Laboratória. Você faz parte do design da Laboratória. Claro, lembre-se de que o feedback é um presente e deve ser construtivo. Não faz parte da nossa cultura chegar com uma lista de reclamações ou reclamações. Queremos ouvir suas recomendações, suas ideias e propostas de soluções. De acordo com o valor de assumir o controle de seu aprendizado, sempre faremos a seguinte pergunta: "O que você fez ou está fazendo a respeito?"
 
-4. **Simulación de un ambiente laboral**, donde trabajas en equipo, de manera ágil y de forma incremental.
+Começam agora uns divertidos seis meses, uma experiência única. Nós estamos contentes por você integrar esta incrível comunidade.
 
-### ¿Qué esperamos de ti?
+Bem-vinda e desejamos-lhe muito sucesso!
 
-Como has visto, nuestra filosofía de aprendizaje es radicalmente diferente a lo tradicional. El modelo que seguimos y la cultura que promovemos son más parecidas a una empresa de tecnología que a un colegio o a una universidad.
-
-De la misma forma, las expectativas que tenemos de ti son diferentes y se expresan en Los valores de aula de Laboratoria. Son el conjunto de actitudes y comportamientos que valoramos y esperamos de las estudiantes. Los valores describen explícitamente lo que esperamos de ti y determinan - en gran medida - si una estudiantes es reconocida, si obtiene la recomendación de empleabilidad, o si es invitada a retirarse.
-
-Todo lo que hacemos en Laboratoria está hecho pensado en ti. Hemos diseñado este modelo de aprendizaje para asegurarnos de que estés lo mejor preparada posible para iniciar tu carrera. Sin embargo, esto no funciona sin que tú hagas tu parte. Tú debes vivir y respirar esta filosofía todos los días y fomentar los valores entre tus compañeras. Debes ser representante y embajadora de esta cultura y de esta forma de pensar y de actuar. ¡Contamos contigo!
-
-### ¿Qué puedes esperar de Laboratoria?
-
-La misión de todos los coaches y del equipo de Laboratoria es que tú y tus compañeras se conviertan en las mejores desarrolladoras web y diseñadoras de experiencias de usuario que puedan ser. Éste no es un trabajo que hacemos por cumplir; lo hacemos porque nos apasiona y creemos que ustedes tienen el poder de construir un sector de tecnología mejor para todos. Son ustedes quienes van a transformar su futuro y el rostro de una industria, que será más innovadora gracias a sus aportes.
-
-Al igual que te pedimos a ti, nosotros también nos “tomamos la misma medicina”: asumimos riesgos, salimos de nuestra zona de confort y estamos abiertos al feedback. Si fallamos en algo - que seguramente pasará - siempre estaremos abiertos a escuchar tus recomendaciones. Lo hacemos porque reconocemos que tú y tus compañeras son quienes mejor pueden ayudarnos a mejorar la experiencia de Laboratoria. Ustedes son parte del diseño de Laboratoria. Eso sí, recuerda que el feedback es un regalo y debe ser constructivo. No es parte de nuestra cultura llegar con una lista de quejas o reclamos.
-
- Queremos escuchar tus recomendaciones, tus ideas y propuestas de soluciones. En línea con el valor de que tomes el control de tu aprendizaje, siempre te haremos la siguiente pregunta: “¿Qué has hecho, o estás haciendo, tú al respecto?”.
-
-Comienzan unos divertidos seis meses, una experiencia única. Nos alegra que seas parte de esta increíble comunidad.  
-  
-¡Bienvenida y te deseamos el mejor de los éxitos!
-
-**El equipo de Laboratoria**
-
+**Equipe da Laboratória**
