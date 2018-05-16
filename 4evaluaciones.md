@@ -34,7 +34,7 @@ Por otro lado, a diferencia de otros campos laborales en los que se puede tener 
   * Si obtienes tu R.E. y no consigues un trabajo en 6 meses, no tendrás que pagar nada por la formación que recibiste.
 
 ## Ya, pero… ¿Qué se evalúa?
-Aquí no hay “cursos”, o “ramos”, o “materia” que debas aprobar. En Laboratoria hay un conjunto de **Proyectos** que debes ir completando en fechas establecidas, es tu [Ruta de Aprendizaje](https://docs.google.com/spreadsheets/d/1AoXQjZnZ5MTPwJPNEGDyvn5vksiOUoPr932TjAldTE4/edit#gid=536983970).
+Aquí no hay “cursos”, o “ramos”, o “materia” que debas aprobar. En Laboratoria hay un conjunto de **Proyectos** y **Retos** que debes ir completando en fechas establecidas, es tu [Ruta de Aprendizaje](https://docs.google.com/spreadsheets/d/1AoXQjZnZ5MTPwJPNEGDyvn5vksiOUoPr932TjAldTE4/edit#gid=536983970).
 
 Durante todo el bootcamp evaluamos \(tú, tus pares y nosotrxs\):
 
@@ -72,39 +72,35 @@ Las pruebas de calidad presentan los siguientes objetivos: encontrar defectos o 
 5. Test suite comprensiva. Múltiples entornos. Automatizado.
 
 ## ¿Qué sucede si no logro alcanzar los niveles esperados en cada proyecto?
-* Si lo completaste y entregaste en el tiempo estipulado, siempre podrás corregir y entregarlo de nuevo \(para reevaluar habilidades técnicas específicamente\), o de demostrar tus habilidades en el siguiente proyecto. Recuerda que Laboratoria es un ambiente seguro y entendemos que es normal que, cuando estamos aprendiendo algo nuevo y difícil, las cosas no siempre resultan al primer intento. Lo más importante es tu compromiso por aprender y tu esfuerzo.
+* Si lo completaste y entregaste en el tiempo estipulado, podrás corregir y entregarlo de nuevo \(para reevaluar habilidades técnicas específicamente\). Recuerda que Laboratoria es un ambiente seguro y entendemos que es normal que, cuando estamos aprendiendo algo nuevo y difícil, las cosas no siempre resultan al primer intento. Lo más importante es tu compromiso por aprender y tu esfuerzo.
 
 * Esfuérzate por entender por qué no alcanzaste el **nivel**. Revisa el mapa detalladamente y auto-evalúate; convérsalo con tus coaches, con tu Jedi y con tus compañeras. Asegúrate de que entiendes cómo lograrlo la próxima vez.
 
 * Conversa con tu **Training Manager \(TM\)** para que ambas hagan un plan de acción a tu medida. Mientras te estés esforzando, siempre tendrás una siguiente oportunidad para demostrar tus habilidades y poder apuntar a conseguir tu **Recomendación de Empleabilidad**. Sin embargo, es importante que converses con tu **TM** y entiendas las implicaciones de tiempo y esfuerzo que eso significa.
 
-* Siempre consideramos tu último nivel alcanzado y jamás lo promediamos con lo que haya sucedido en el pasado.
+* Para nosotros lo más importante es el **nivel que alcanzas**.
 
-## ¿Qué sucede si no entrego mi proyecto? \(SCL y CDMX\)
-* Una falta en entrega genera una advertencia y se debe escalar a la TM. Tendrás un tiempo extra para completar lo que te faltó
-
-* Si tampoco lo haces después del tiempo extra, eso puede ser causa de invitación a retirarse.
+## ¿Qué sucede si no entrego mi proyecto? \
+* Un atraso en la entrega de un proyecto genera una advertencia y se debe escalar a la TM. Esto puede ser causa de invitación a retirarse en caso de no entregarse.
 
 ## ¿Bajo qué condiciones definitivamente recibo la R.E.?
 Completar todos los proyectos y haber alcanzado los niveles mínimos esperados para cada una de las habilidades \(técnicas y blandas\).
 
 ## ¿Bajo qué condiciones de ninguna manera recibo la R.E.?
-* Completar menos de 5 proyectos.
-
-* No alcanzar el nivel esperado de habilidades técnicas o blandas en todos los proyectos.
+* No completar todos los proyectos o No alcanzar el nivel esperado de habilidades técnicas o blandas en todos los proyectos.
 
 ## ¿Qué otras cosas generan una “invitación a retirarse”?
-Tu **profesionalismo** y/o tus actitudes respecto a los valores de aula pueden generar una invitación a retirarse. Algunos casos específicos por los cuales hemos invitado a estudiantes a retirarse en el pasado son:
+Tu **profesionalismo** y/o tus actitudes respecto a los valores de aula pueden generar una invitación a retirarse. Causales de invitación a retirarse:
 
-* **Asistencia**: menos de 85% de asistencia.
+* **Asistencia**: Menos de 90% de asistencia.
 
 * **Puntualidad**: No más de dos tardanza justificadas al mes. Sin importar el motivo, tienes que avisar a tu Jedi Master y a tu Squad.
 
-* **Copia**: Haber entregado un proyecto que ha sido copiado de una compañera o de Internet.
+* **Copia**: Una advertencia de copia durante bootcamp, ya sea de una compañera o de Internet. 
 
 * **Falta de respeto**: Haber tratado de manera irrespetuosa a una compañera o al equipo de Laboratoria de cualquier forma, sea verbal, escrita o de cualquier otra manera.
 
-* **Irresponsabilidad**: no cumplir con los entregables, a pesar de haber tenido tiempo extra para completarlo.
+* **Irresponsabilidad**: No cumplir con los entregables, 2 retos o 1 proyecto. O no entregar la corrección de un proyecto en el tiempo estipulado. 
 
 ## Preguntas Frecuentes
 - ¿Qué pasa si, al final del bootcmap, en algunas habilidades estoy en el nivel requerido o por encima de él y solo en una habilidad estoy debajo? **No obtienes tu RE de manera automática. Tendrás que trabajar en alcanzar el nivel en las semanas posteriores al final del bootcamp.**
@@ -113,21 +109,19 @@ Tu **profesionalismo** y/o tus actitudes respecto a los valores de aula pueden g
 
 - ¿Qué pasa si mis pares me evalúan mal porque no quieren que yo avance?, ¿me veré perjudicada? **La evaluación de tus pares tiene por propósito final que recibas feedback. La evaluación del nivel es siempre la de Laboratoria.**
 
-- ¿Los niveles a los que tengo que llegar en el *common core* son los mismos para front-end que para UX? Si son especializaciones diferentes deberían requerir niveles diferentes. **Pues no, consideramos que un buen UX designer tiene una gran ventaja al tener las habilidades técnicas de front end que desarrollarás durante el common core en los niveles que indicamos.**
+- ¿Los niveles a los que tengo que llegar en el *common core* son los mismos para front-end que para UX? Si son especializaciones diferentes deberían requerir niveles diferentes. **Pues no, consideramos que un buen UX designer tiene una gran ventaja al tener las habilidades técnicas de front end que desarrollarás durante el common core en los niveles que indicamos, lo mismo al revés.**
 
-- Si hay proyectos grupales y el grupo que me toca no trabaja bien y por eso no hacemos un buen proyecto, ¿me veré perjudicada? **Quizás deberías pensar en que “no trabajamos bien”. Tú eres parte del equipo y debes procurar que el trabajo funcione lo mejor posible también. Siempre puedes conversar estas situaciones con tu Training Manager.**
+- Si hay proyectos grupales y el grupo que me toca no trabaja bien y por eso no hacemos un buen proyecto, ¿me veré perjudicada? **Quizás deberías pensar en que “no trabajamos bien”. Tú eres parte del equipo y debes procurar que el trabajo funcione lo mejor posible también. Siempre puedes conversar estas situaciones con tu Jedi Master o tu Training Manager.**
 
 - ¿En qué consiste la evaluación entre pares? **Entre compañeras de equipo se evalúan con la finalidad de darse feedback**
-
-- ¿Mi jedi me evalúa? **Sí, evalúa tus habilidades blandas junto con todo el equipo de formación.**
 
 - ¿Puedo llegar a graduarme sin recibir RE? **Sí, claro. Tu esfuerzo y experiencia son un gran logro. Recuerda que puedes volver a revisar y trabajar en tus proyectos para que podamos volver a evaluar tu nivel y reconsiderar darte la RE.**
 
 - ¿Cuándo me dicen si tendré la RE? **Al final del bootcamp. Igual, siempre sabes qué tan cerca o lejos estás según los niveles que vas alcanzando durante los proyectos.**
 
-- ¿Es posible bajar en el nivel de una habilidad de un proyecto a otro? **Sí, puede pasar y es solamente un indicador de que debes prestarle más atención a esa habilidad en particular. No hay problema, recuerda que no promediamos.**
+- ¿Es posible bajar en el nivel de una habilidad de un proyecto a otro? **Sí, puede pasar y es solamente un indicador de que debes prestarle más atención a esa habilidad en particular, en caso de repetirse serás evaluada en esa habilidad en especial.**
 
-12. No entendí bien quién me va a evaluar al final. ¿Quien decide en qué nivel me encuentro y cómo lo hace? **Para tus habilidades blandas: Todo el equipo de formación de Laboratoria \(Jedis, coaches, coord de desarrollo personal\). Para tus habilidades técnicas: tus coaches.**
+12. No entendí bien quién me va a evaluar al final. ¿Quien decide en qué nivel me encuentro y cómo lo hace? **Para tus habilidades blandas: Todo el equipo de formación de Laboratoria. Para tus habilidades técnicas: tus coaches.**
 
 13. ¿Cuál es la diferencia entre habilidades blandas y profesionalismo? ¿Qué es lo más importante? Me resulta confuso. **Tu profesionalismo es algo que exigimos desde el primer día. Debes demostrar compromiso por estar acá, respeto hacia los demás y ser honesta con tu trabajo. Faltas de profesionalismo implican que debes retirarte del programa porque no estás cumpliendo con una regla de convivencia. Las habilidades blandas las desarrollarás en el camino, conforme ganes experiencia.**
 
