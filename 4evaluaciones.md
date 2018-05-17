@@ -48,7 +48,7 @@ Al final de cada Proyecto evaluamos \(tú, tus pares y nosotrxs\):
 ## No sé si estoy entendiendo. ¿Cómo sé en qué "Nivel” estoy y si estoy progresando en mi aprendizaje para alcanzar mi R.E.?
 
 **Cada Proyecto incluye:**
-* Una lista de las habilidades \(Técnicas y Blandas\) que desarrollarás al hacerlo y la descripción de los aspectos específicos que hay que evaluar para cada una.
+* Una [lista de las habilidades](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkQy1waRpQ-16sn7VogiDTy-Fz5e7OSZSYUCiHC_bkLAKYewr4L8pWJ_BG210PeULe-TjLScNQQT_x/pubhtml) \(Técnicas y Blandas\) que desarrollarás al hacerlo y la descripción de los aspectos específicos que hay que evaluar para cada una.
 
 * El **nivel** que esperamos alcances en cada una de esas habilidades.
 
