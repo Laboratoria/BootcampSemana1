@@ -52,7 +52,7 @@ Al final de cada Proyecto evaluamos \(tú, tus pares y nosotrxs\):
 
 * El **nivel** que esperamos alcances en cada una de esas habilidades.
 
-* Estas habilidades, y los niveles esperados vs. alcanzados, constituyen tu **Mapa de progreso** de tu aprendizaje durante el bootcamp.
+* Estas habilidades, y los niveles esperados vs. alcanzados, constituyen tu [**Mapa de progreso**](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkQy1waRpQ-16sn7VogiDTy-Fz5e7OSZSYUCiHC_bkLAKYewr4L8pWJ_BG210PeULe-TjLScNQQT_x/pubhtml) de tu aprendizaje durante el bootcamp.
 
 * Por lo tanto, cada vez que entregues tus proyectos, recibirás una evaluación \(autoevaluación, de tus pares y de tus coaches\) indicando el nivel que lograste alcanzar para cada habilidad técnica y blanda.
 
