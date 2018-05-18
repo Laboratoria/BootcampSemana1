@@ -39,11 +39,15 @@ También recuerda que siempre cuentas con Google y con tus compañeras. Cómo af
 
 ## Espacios importantes para interactuar con los/as coaches:
 
-* **Clases**: ¿Por qué te sentarías 2 horas de tu vida \(que no volverán\) a escuchar, pasivamente, una clase sin leer antes los contenidos asignados (self learning) ni a hacer las preguntas de las dudas que estás teniendo?
+* **Workshop**: ¿Por qué te sentarías 2 horas de tu vida \(que no volverán\) a escuchar, pasivamente, una clase sin leer antes los contenidos asignados (self learning) ni a hacer las preguntas de las dudas que estás teniendo?
+
+* **Hands on**: ¡Hora de meter las manos a la masa! Estos son los espacios durante el flujo de la clase para codear sin cesar!
 
 * **Horas de ayudantía \(Office Hours\)**: l@s coaches ofrecen espacios de 120 a 150 min para consultas para las estudiantes que tengan dudas dos veces por semana previa coordinación con l@s coaches. Deberás inscribirte con anticipación para reservar tu espacio. También podrás llegar de imprevisto, pero si la sala está llena deberás esperar a la siguiente ayudantía. L@s coaches facilitarán talleres de preguntas y respuestas donde tú y tus compañeras proponen temas y l@s coaches hacen un taller en función de lo pedido. Recuerda que tú estás en control: venir a una ayudantía sin hacer preguntas, ¡es como ir al cine y cerrar los ojos!
 
 * **Slack:** Recuerden que tenemos un canal exclusivo para resolver las dudas por slack, se llama qa-2018-1. Lo mismo que siempre: mientras más participes mejor para ti y para las demás.
+
+
 
 ## ¿Existen otras dinámicas adicionales como parte de la experiencia en Laboratoria?
 
