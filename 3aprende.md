@@ -155,17 +155,9 @@ Hemos preparado un documento aparte para describir el proceso de Evaluaciones en
 
 Siempre habrán coaches en el aula mientras estás hackeando o diseñando.
 
-También existen tres espacios importantes para interactuar con los/as coaches:
+También existen dos espacios importantes para interactuar con los/as coaches:
 
-* **Talleres de Preguntas y Respuestas - Modalidad Open Space**: dos veces por semana los/as coaches facilitarán talleres de preguntas y respuestas donde tú y tus compañeras de aula \(todos los Squads juntos\) proponen temas y los/as coaches realizan un taller en función de lo pedido. En algunos casos se puede dividir el salón en dos grupos, así dos coaches pueden facilitar dos sesiones en paralelo y cubrir más necesidades. Recuerda que tú estás en control: venir a una sesión de preguntas y respuestas sin hacer preguntas, ¡es como ir al cine y cerrar los ojos!
-
-  \*¿Por qué te sentarías 2 horas de tu vida \(que no volverán\) a escuchar, pasivamente, una conversación sobre algo que ya sabes?
-
-  \*Así como no tiene sentido promediar notas, tampoco tiene sentido promediar el contenido y nivel de una sesión para hacerla al nivel de todas.
-
-  \*Tú participas en la creación de la agenda de la sesión o sesiones.
-
-* **Horas de ayudantía \(Office Hours\)**: los/as coaches ofrecen espacios de 30-60min para consultas personalizadas para 1-2 estudiantes todos los días. Podrás reservar tu espacio con anticipación si así lo deseas, a través de esta plataforma. También podrás llegar de imprevisto, pero si hay otra estudiante antes que tú, deberás esperar.
+* **Horas de repasos \(Office Hours\)**: los/as coaches ofrecen espacios de 60-120min para consultas para las estudiantes que lo desean. Se tendrán que organizar entre compañeras para proponer a un coach un tema y llegar con sus dudas y preguntas. Siempre habrá apertura y disposición para organizar estos espacios. Si no hubiera disponibilidad en el tiempo propuesto, se buscaría una fecha alternativa. 
 
 * **Revisión de soluciones:** al final del tiempo estipulado para entregar el proyecto, los/as coaches facilitarán un espacio para revisar algunas de las soluciones entregadas y dar feedback. La modalidad aquí es que se escogen aleatoriamente algunas estudiantes \(escuchamos voluntarias\) para que presenten su código/diseño al grupo y los/as coaches dan feedback en vivo. Los/as coaches también muestran su propia solución. La idea es que no avances a otro proyecto sin discutir las múltiples maneras en las que se pudo haber solucionado el proyecto. Lo mismo que siempre: mientras más participes mejor para ti y para las demás.
 
@@ -177,7 +169,7 @@ Sí, como parte de la agenda cotidiana en Laboratoria, tendremos:
 
 2. Un espacio para reconocimientos para premiar y reconocer los buenos comportamientos. Hemos preparado un documento aparte para explicar nuestro programa de incentivos y reconocimientos.
 
-3. Además, tenemos constantemente talleres y charlas con invitados externos, profesionales de las mejores empresas de la industria tech que vienen al aula para compartir sus experiencias. En algunos casos, son las propias estudiantes quienes visitan las empresas para conocer de cerca cómo trabajan sus equipos de desarrollo.
+3. Además, tenemos talleres y charlas con invitados externos, profesionales de las mejores empresas de la industria tech que vienen al aula para compartir sus experiencias. En algunos casos, son las propias estudiantes quienes visitan las empresas para conocer de cerca cómo trabajan sus equipos de desarrollo.
 
 ## ¿Algún consejo adicional antes de empezar?
 
