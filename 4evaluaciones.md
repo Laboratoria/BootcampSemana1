@@ -59,7 +59,7 @@ Al final de cada Proyecto evaluamos \(tú, tus pares y nosotrxs\):
 * Esto nos permitirá \(a ti y a nosotras\) saber cómo te ubicas en ese mapa y, por lo tanto, qué habilidades estás desarrollando y cuáles necesitan más esfuerzo o atención.
 
 ## ¿Me pueden dar un ejemplo?
-Sí. Supongamos que la descripción de uno de los proyectos requiere que alcances el **Nivel 2** de la habilidad técnica **“Test”.** QUiere decir que debes lograr exactaente lo que se describe en el **Nivel 2** del mapa para esa habilidad:
+Sí. Supongamos que la descripción de uno de los proyectos requiere que alcances el **Nivel 2** de la habilidad técnica **“Test”.** Quiere decir que debes lograr exactamente lo que se describe en el **Nivel 2** del mapa para esa habilidad:
 
 ### Habilidad: Test
 Las pruebas de calidad presentan los siguientes objetivos: encontrar defectos o bugs, aumentar la confianza en el nivel de calidad, facilitar información para la toma de decisiones, evitar la aparición de defectos.
@@ -85,11 +85,6 @@ Las pruebas de calidad presentan los siguientes objetivos: encontrar defectos o 
 
 * Si tampoco lo haces después del tiempo extra, eso puede ser causa de invitación a retirarse.
 
-## ¿Qué sucede si no entrego mi proyecto? \(LIM\)
-* Si no logras completar el proyecto cumpliendo con los criterios mínimos de aceptación \(establecidos en la descripción de cada proyecto\), no podrás avanzar al siguiente proyecto. Deberás enfocarte en terminar el proyecto actual.
-
-* Lamentablemente, no podemos esperar indefinidamente hasta que logres completar un proyecto. Consideramos que algo anda mal si has invertido más del doble del tiempo originalmente estipulado. Si esto sucede, tu Training Manager y/o tu coach de desarrollo personal, se comunicará contigo para definir cuáles son las alternativas de acción, ya que esto afecta directamente la posibilidad de obtener la Recomendación de Empleabilidad.
-
 ## ¿Bajo qué condiciones definitivamente recibo la R.E.?
 Completar todos los proyectos y haber alcanzado los niveles mínimos esperados para cada una de las habilidades \(técnicas y blandas\).
 
@@ -103,7 +98,7 @@ Tu **profesionalismo** y/o tus actitudes respecto a los valores de aula pueden g
 
 * **Asistencia**: menos de 85% de asistencia.
 
-* **Puntualidad**: No más de dos tardanza justificadas al mes. Sin importar el motivo, tienes que avisar a tu Jedi Master y a tu Squad.
+* **Puntualidad**: No más de dos tardanza justificadas al mes. Sin importar el motivo, tienes que avisar a la persona encargada de tomar la asistencia y a tu Squad.
 
 * **Copia**: Haber entregado un proyecto que ha sido copiado de una compañera o de Internet.
 
@@ -126,18 +121,16 @@ Tu **profesionalismo** y/o tus actitudes respecto a los valores de aula pueden g
 
 7. ¿En qué consiste la evaluación entre pares? **Entre compañeras de equipo se evalúan con la finalidad de darse feedback**
 
-8. ¿Mi jedi me evalúa? **Sí, evalúa tus habilidades blandas junto con todo el equipo de formación.**
+8. ¿Puedo llegar a graduarme sin recibir RE? **Sí, claro. Tu esfuerzo y experiencia son un gran logro. Recuerda que puedes volver a revisar y trabajar en tus proyectos para que podamos volver a evaluar tu nivel y reconsiderar darte la RE.**
 
-9. ¿Puedo llegar a graduarme sin recibir RE? **Sí, claro. Tu esfuerzo y experiencia son un gran logro. Recuerda que puedes volver a revisar y trabajar en tus proyectos para que podamos volver a evaluar tu nivel y reconsiderar darte la RE.**
+9. ¿Cuándo me dicen si tendré la RE? **Al final del bootcamp. Igual, siempre sabes qué tan cerca o lejos estás según los niveles que vas alcanzando durante los proyectos.**
 
-10. ¿Cuándo me dicen si tendré la RE? **Al final del bootcamp. Igual, siempre sabes qué tan cerca o lejos estás según los niveles que vas alcanzando durante los proyectos.**
+10. ¿Es posible bajar en el nivel de una habilidad de un proyecto a otro? **Sí, puede pasar y es solamente un indicador de que debes prestarle más atención a esa habilidad en particular.**
 
-11. ¿Es posible bajar en el nivel de una habilidad de un proyecto a otro? **Sí, puede pasar y es solamente un indicador de que debes prestarle más atención a esa habilidad en particular.**
+11. No entendí bien quién me va a evaluar al final. ¿Quien decide en qué nivel me encuentro y cómo lo hace? **Para tus habilidades blandas: Todo el equipo de formación de Laboratoria \(Coaches, coord de desarrollo personal\). Para tus habilidades técnicas: tus coaches.**
 
-12. No entendí bien quién me va a evaluar al final. ¿Quien decide en qué nivel me encuentro y cómo lo hace? **Para tus habilidades blandas: Todo el equipo de formación de Laboratoria \(Jedis, coaches, coord de desarrollo personal\). Para tus habilidades técnicas: tus coaches.**
+12. ¿Cuál es la diferencia entre habilidades blandas y profesionalismo? ¿Qué es lo más importante de los dos? Me resulta confuso. **Profesionalismo es algo que exigimos desde el primer día. Para estar en Laboratoria debes demostrar compromiso por estar acá, respeto hacia los demás y ser honesta con tu trabajo. Faltas de profesionalismo implican que debes retirarte del programa porque no estás cumpliendo con una regla de convivencia. Las habilidades blandas las desarrollarás en el camino, conforme ganes experiencia.**
 
-13. ¿Cuál es la diferencia entre habilidades blandas y profesionalismo? ¿Qué es lo más importante de los dos? Me resulta confuso. **Profesionalismo es algo que exigimos desde el primer día. Para estar en Laboratoria debes demostrar compromiso por estar acá, respeto hacia los demás y ser honesta con tu trabajo. Faltas de profesionalismo implican que debes retirarte del programa porque no estás cumpliendo con una regla de convivencia. Las habilidades blandas las desarrollarás en el camino, conforme ganes experiencia.**
+13. ¿Es más importante la parte técnica o la parte de soft skills? ¿En qué debo enfocarme? ¿Cual de las dos tiene más peso? **No hay pesos ni promedios. Todas son importantes por igual, concéntrate en alcanzar el nivel indicado para cada una.**
 
-14. ¿Es más importante la parte técnica o la parte de soft skills? ¿En qué debo enfocarme? ¿Cual de las dos tiene más peso? **No hay pesos ni promedios. Todas son importantes por igual, concéntrate en alcanzar el nivel indicado para cada una.**
-
-15. ¿Cada cuánto tiempo me darán feedback?, ¿quién lo hará? **Tendrás feedback todas la semanas, te lo darán tus coaches.**
+14. ¿Cada cuánto tiempo me darán feedback?, ¿quién lo hará? **Tendrás feedback todas la semanas, te lo darán tus coaches.**
