@@ -80,7 +80,7 @@ Las pruebas de calidad presentan los siguientes objetivos: encontrar defectos o 
 
 * Siempre consideramos tu último nivel alcanzado y jamás lo promediamos con lo que haya sucedido en el pasado.
 
-## ¿Qué sucede si no entrego mi proyecto? \(SCL y CDMX\)
+## ¿Qué sucede si no entrego mi proyecto? 
 * Una falta en entrega genera una advertencia y se debe escalar a la TM. Tendrás un tiempo extra para completar lo que te faltó
 
 * Si tampoco lo haces después del tiempo extra, eso puede ser causa de invitación a retirarse.
@@ -89,7 +89,7 @@ Las pruebas de calidad presentan los siguientes objetivos: encontrar defectos o 
 Completar todos los proyectos y haber alcanzado los niveles mínimos esperados para cada una de las habilidades \(técnicas y blandas\).
 
 ## ¿Bajo qué condiciones de ninguna manera recibo la R.E.?
-* Completar menos de 5 proyectos.
+* No completar los proyectos que se deben entregar. 
 
 * No alcanzar el nivel esperado de habilidades técnicas o blandas en todos los proyectos.
 
