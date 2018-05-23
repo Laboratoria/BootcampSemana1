@@ -124,10 +124,7 @@ Los/as Jedi tienen la misión de darte guía y apoyo para que logres entregar tu
 
 * Remover barreras y, de ser necesario, coordinar sesiones con el staff de coaches para que se aclaren dudas sobre algún concepto que tú o tu Squad no ha logrado entender
 
-* Determinar si al final del tiempo establecido para el proyecto, tu solución cumple los criterios mínimos de aceptación \(establecidos en la descripción de cada proyecto\) como para considerarse “completado”. En función de esto, _determinar si puedes avanzar al siguiente proyecto o si debes enfocarte en terminar el proyecto actual._
-
-* Darte guía y consejos sobre tu progreso general y sobre tu avance en los niveles de las habilidades a desarrollar. Esto incluye consejos de qué 
-cosas enfocarte en el próximo proyecto, si es recomendable hacer arreglos al proyecto actual y entregarlo de nuevo, etc.
+* Darte guía y consejos sobre tu progreso general y sobre tu avance en los niveles de las habilidades a desarrollar. Esto incluye consejos de qué cosas enfocarte en el próximo proyecto, si es recomendable hacer arreglos al proyecto actual y entregarlo de nuevo, etc.
 
 Moderar las sesiones de Peer Review \(revisión entre pares\) al final del proyecto. En esta actividad una compañera te evaluará indicando el nivel que lograste alcanzar para cada habilidad técnica y blanda. Lo mismo haces tú para una compañera y para ti como auto-evaluación.
 
@@ -139,21 +136,21 @@ En Laboratoria nos enfocamos menos en que termines el proyecto en el tiempo esta
 
 Lamentablemente, no podemos esperar indefinidamente hasta que logres completar un proyecto. Consideramos que algo anda mal si has invertido más del doble del tiempo originalmente estipulado. Si esto sucede, tu Training Manager y/o tu coach de desarrollo personal, se comunicará contigo para definir cuáles son las alternativas de acción, ya que esto afecta directamente la posibilidad de obtener la Recomendación de Empleabilidad.
 
-## Si los Jedi no son personas técnicas, entonces ¿quién evalúa la parte técnica?
+## ¿Quién evalúa la parte técnica?
 
 Hemos preparado un documento aparte para describir el proceso de Evaluaciones en Laboratoria. Léelo con detenimiento, pero en general, cada vez que entregues tus proyectos:
 
 * Deberás hacer la dinámica de Peer Review moderada por tu Jedi Master.
 
-* Tu Jedi determina si tu entrega cumple con los criterios mínimos de aceptación. Esto determina si puedes avanzar al siguiente proyecto o debes continuar trabajando en el actual.
-
 * Tus coaches evaluarán tu solución indicando el nivel que lograste alcanzar para cada habilidad técnica de acuerdo a las expectativas descritas en las bases del proyecto.
 
-* Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tu Jedi,  por tus compañeras y por tus coaches- te evaluará indicando el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto.
+* Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tus compañeras y por tus coaches- te evaluará indicando el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto.
 
 ## Ok... ¿Los coaches cuándo intervienen?
 
-Siempre habrán coaches en el aula mientras estás hackeando o diseñando.
+* **Workshop**: ¿Por qué te sentarías 2 horas de tu vida (que no volverán) a escuchar, pasivamente, una clase sin leer antes los contenidos asignados (self learning) ni a hacer las preguntas de las dudas que estás teniendo?
+
+* **Hands on**: ¡Hora de meter las manos a la masa! Estos son los espacios durante el flujo de la clase para codear, siempre habrán coaches en el aula mientras estás hackeando o diseñando!
 
 También existen dos espacios importantes para interactuar con los/as coaches:
 
