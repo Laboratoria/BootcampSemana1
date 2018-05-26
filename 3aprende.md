@@ -128,13 +128,6 @@ Los/as Jedi tienen la misión de darte guía y apoyo para que logres entregar tu
 
 Moderar las sesiones de Peer Review \(revisión entre pares\) al final del proyecto. En esta actividad una compañera te evaluará indicando el nivel que lograste alcanzar para cada habilidad técnica y blanda. Lo mismo haces tú para una compañera y para ti como auto-evaluación.
 
-## ¿Cómo es eso de no poder avanzar?
-
-Los proyectos en Laboratoria están diseñados de forma que van creciendo en complejidad y, de alguna manera, se van construyendo uno sobre la base del otro. Entonces, si alguien avanza al siguiente tema sin necesariamente haber dominado el anterior, se genera el problema del “queso suizo en el aprendizaje”: a pesar de que por fuera parece que todo bien, por dentro está lleno de agujeros.
-
-En Laboratoria nos enfocamos menos en que termines el proyecto en el tiempo establecido y más en que lo termines en el tiempo que necesitas para garantizar que avanzas sin “huecos” en tu conocimiento.
-
-Lamentablemente, no podemos esperar indefinidamente hasta que logres completar un proyecto. Consideramos que algo anda mal si has invertido más del doble del tiempo originalmente estipulado. Si esto sucede, tu Training Manager y/o tu coach de desarrollo personal, se comunicará contigo para definir cuáles son las alternativas de acción, ya que esto afecta directamente la posibilidad de obtener la Recomendación de Empleabilidad.
 
 ## ¿Quién evalúa la parte técnica?
 
@@ -144,7 +137,7 @@ Hemos preparado un documento aparte para describir el proceso de Evaluaciones en
 
 * Tus coaches evaluarán tu solución indicando el nivel que lograste alcanzar para cada habilidad técnica de acuerdo a las expectativas descritas en las bases del proyecto.
 
-* Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tus compañeras y por tus coaches- te evaluará indicando el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto.
+* Tu Training Manager junto con tu coach de desarrollo personal -utilizando información brindada por ti, por tus compañeras y por tus coaches- hará un consolidando e indicará el nivel que lograste alcanzar para cada habilidad blanda de acuerdo a las expectativas descritas en las bases del proyecto.
 
 ## Ok... ¿Los coaches cuándo intervienen?
 
