@@ -107,7 +107,7 @@ Tu **profesionalismo** y/o tus actitudes respecto a los valores de aula pueden g
 * **Irresponsabilidad**: no cumplir con los entregables, a pesar de haber tenido tiempo extra para completarlo.
 
 ## Preguntas Frecuentes
-1. ¿Cuáles son los niveles específicos que tengo que tener al final del common core? **Link a mapas**
+1. ¿Cuáles son los niveles específicos que tengo que tener al final del common core? (Mapa de aprendizaje)[https://docs.google.com/spreadsheets/d/1NEOiVKy5IQ2pKHOoTywRG_Hcqlmi47-HkUJs0miJvsI/edit?usp=sharing]. 
 
 2. ¿Qué pasa si, al final del bootcmap, en algunas habilidades estoy sobre el nivel requerido y en solo una habilidad estoy ligeramente debajo? **No obtienes tu RE de manera automática. Tendrás que trabajar en alcanzar el nivel en las semanas posteriores al final del bootcamp.**
 
