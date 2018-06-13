@@ -1,6 +1,6 @@
 # **Mapa de progreso**
 
-En este archivo podrás encontrar el mapa de progreso, que contiene las evaluaciones de los proyectos. 
+En [este archivo podrás encontrar el mapa de progreso](https://docs.google.com/spreadsheets/d/1Xs9R5AtamkBeZQkhvVmQJMQSiWD2h_BabC9H5Sbi4AI/edit#gid=1951302041), que contiene las evaluaciones de los proyectos. 
 
 Recuerda que durante todo el bootcamp evaluamos (tú, tus pares y nosotrxs):
 - Profesionalismo (asistencia, puntualidad, integridad, actitud, etc.). Recuerda que es uno de los valores de aula de Laboratoria.
