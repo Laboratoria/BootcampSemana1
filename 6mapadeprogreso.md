@@ -1,4 +1,4 @@
-#**Mapa de progreso**
+# ** Mapa de progreso **
 
 En este archivo podrás encontrar el mapa de progreso, que contiene las evaluaciones de los proyectos. 
 
