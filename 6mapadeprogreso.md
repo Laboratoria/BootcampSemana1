@@ -3,14 +3,12 @@
 En este archivo podrás encontrar el mapa de progreso, que contiene las evaluaciones de los proyectos. 
 
 Recuerda que durante todo el bootcamp evaluamos (tú, tus pares y nosotrxs):
-
-Profesionalismo (asistencia, puntualidad, integridad, actitud, etc.). Recuerda que es uno de los valores de aula de Laboratoria.
+- Profesionalismo (asistencia, puntualidad, integridad, actitud, etc.). Recuerda que es uno de los valores de aula de Laboratoria.
 
 Al final de cada Proyecto evaluamos (tú, tus pares y nosotrxs):
 
-Habilidades Técnicas (JavaScript y UX).
-
-Habilidades Blandas (trabajo en equipo, autoaprendizaje, comunicación, etc.).
+- Habilidades Técnicas (JavaScript y UX).
+- Habilidades Blandas (trabajo en equipo, autoaprendizaje, comunicación, etc.).
 
 Recuerda siempre que veas las evaluaciones de un proyecto nuevo:
 - Comparar tu desempeño con los niveles esperados
