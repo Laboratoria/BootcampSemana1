@@ -1,6 +1,8 @@
 # Autoaprendizaje no significa que estás sola
 Si bien vamos empujar tus límites para que aprendedas por ti misma (una habilidad clave para tu futuro), no queremos que por ninguna razón sientas que estás sola en este camino. Es importante que sepas distinguir cuando estás **estancada** en la parte roja del proceso de aprendizaje y necesitas ayuda.
+
 ![Proceso](/img/sem1_caos.png)
+
 Sabemos que todo es muy nuevo, las cosas se pueden confundir, y puede parecer que te hemos dejado a la deriva, traqnuila, no es así.
 
 Recuerda que te dijimos que:
